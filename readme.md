@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 1, 2026 at 03:30:56 AM UTC
+June 4, 2026 at 03:30:50 AM UTC
 
 
 ## Theorem
 
-## Papers (880)
+## Papers (895)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -918,6 +918,21 @@ June 1, 2026 at 03:30:56 AM UTC
 - [A Bayesian Framework for Uncertainty-Aware Estimation of Main Pulmonary Artery Velocity Profiles from Phase-Contrast MRI](https://arxiv.org/abs/2605.30623)
 - [Ubiquity of Emergent Hebbian Dynamics in Regularized Learning](https://arxiv.org/abs/2505.18069)
 - [Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability](https://arxiv.org/abs/2605.30482)
+- [Translation Heads: Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613)
+- [Linear Probes Detect Task Format, Not Reasoning Mode in Language Model Hidden States](https://arxiv.org/abs/2606.02907)
+- [A Monosemantic Attribution Framework for Stable Interpretability in Clinical Neuroscience Transformer-Based Language Models](https://arxiv.org/abs/2601.17952)
+- [When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures](https://arxiv.org/abs/2606.02378)
+- [Correcting Gradient-Based Circuit Localization via Interaction-Aware Backpropagation](https://arxiv.org/abs/2505.17630)
+- [Matter to Mechanism: A Benchmark for AI Co-Scientists in Materials and Battery Research](https://arxiv.org/abs/2606.02258)
+- [Ablating Archetypes: The Stability of Archetypal SAEs is an Artifact of Initialization and Metric Design](https://arxiv.org/abs/2606.02061)
+- [Mechanistic Diagnostics of Spatial Lexical Bias in Multimodal Large Language Model Spatial Reasoning](https://arxiv.org/abs/2606.01914)
+- [From Performance to Viability: A Bootstrap Framework for Latent-Space Representation Learning in Adaptive Biological Systems](https://arxiv.org/abs/2606.01374)
+- [Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention](https://arxiv.org/abs/2606.01243)
+- [A literature-grounded scientific reasoning framework for defect-engineered TiO_{2}_{2} photocatalysts](https://arxiv.org/abs/2606.01089)
+- [Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning](https://arxiv.org/abs/2606.01042)
+- [Detection vs. Execution: Single-Bucket Probes Miss Half the Mamba-2 State Sink](https://arxiv.org/abs/2606.00930)
+- [Positional Encodings Anchor Spatial Structure in Vision Transformers: A Geometric Perspective on Robustness](https://arxiv.org/abs/2606.00124)
+- [Closed-Loop Molecular Design with Calibrated Deference](https://arxiv.org/abs/2606.02618)
 
 
 ### Dedicated Publication Threads
