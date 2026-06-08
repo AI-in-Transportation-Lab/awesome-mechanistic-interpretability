@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 7, 2026 at 02:58:14 AM UTC
+June 8, 2026 at 03:27:44 AM UTC
 
 
 ## Theorem
 
-## Papers (899)
+## Papers (901)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -937,6 +937,8 @@ June 7, 2026 at 02:58:14 AM UTC
 - [Unsupervised Pattern Analysis in Japanese Veterinary Toxicology: A Regulatory-Compliant Framework for Cross-Species Risk Assessment](https://arxiv.org/abs/2606.06207)
 - [Integrating Mechanistic and Data-Driven Models for Neurological Disorders through Differentiable Programming](https://arxiv.org/abs/2606.06094)
 - [Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads](https://arxiv.org/abs/2606.05843)
+- [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](https://arxiv.org/abs/2606.06664)
+- [Position: Don't Just "Fix it in Post": A Science of AI Must Study Training Dynamics](https://arxiv.org/abs/2606.06533)
 
 
 ### Dedicated Publication Threads
