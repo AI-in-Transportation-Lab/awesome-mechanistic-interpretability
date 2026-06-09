@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 8, 2026 at 03:27:44 AM UTC
+June 9, 2026 at 02:38:43 AM UTC
 
 
 ## Theorem
 
-## Papers (901)
+## Papers (911)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -939,6 +939,16 @@ June 8, 2026 at 03:27:44 AM UTC
 - [Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads](https://arxiv.org/abs/2606.05843)
 - [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](https://arxiv.org/abs/2606.06664)
 - [Position: Don't Just "Fix it in Post": A Science of AI Must Study Training Dynamics](https://arxiv.org/abs/2606.06533)
+- [Wearable Single-Lead ECG Detects Fine-Grained Structural Heart Disease Through Echo-Report Supervision](https://arxiv.org/abs/2606.09332)
+- [Trajectory Geometry of Transformer Representations Across Layers](https://arxiv.org/abs/2606.09287)
+- [Sycophancy Towards Researchers Drives Performative Misalignment](https://arxiv.org/abs/2606.08629)
+- [Ablation-Reversible Heads Don't Transfer: A Stress Test for Mechanistic Role Claims in Transformers](https://arxiv.org/abs/2606.08292)
+- [GPT-Micro: A large language paradigm for accelerated, inexpensive, and thermodynamics-consistent discovery of constitutive models in manufacturing](https://arxiv.org/abs/2606.08238)
+- [Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](https://arxiv.org/abs/2606.08236)
+- [Biological Reasoning-Informed Regression for Interpretable Regulatory DNA Activity Prediction](https://arxiv.org/abs/2606.08147)
+- [TianJi-Environ: An Autonomous AI Scientist for Atmospheric Environmental Research](https://arxiv.org/abs/2606.07697)
+- [Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](https://arxiv.org/abs/2606.07604)
+- [DiffoR: A Unified Continuous Generative Framework for Universal Ordinal Regression](https://arxiv.org/abs/2606.07599)
 
 
 ### Dedicated Publication Threads
