@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 9, 2026 at 02:38:43 AM UTC
+June 10, 2026 at 02:52:33 AM UTC
 
 
 ## Theorem
 
-## Papers (911)
+## Papers (915)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -949,6 +949,10 @@ June 9, 2026 at 02:38:43 AM UTC
 - [TianJi-Environ: An Autonomous AI Scientist for Atmospheric Environmental Research](https://arxiv.org/abs/2606.07697)
 - [Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](https://arxiv.org/abs/2606.07604)
 - [DiffoR: A Unified Continuous Generative Framework for Universal Ordinal Regression](https://arxiv.org/abs/2606.07599)
+- [LLM-Mediated Demand Response Coordination in Smart Microgrids](https://arxiv.org/abs/2606.11050)
+- [VFUSE: Virulent Feature Understanding with Sparse autoEncoders](https://arxiv.org/abs/2606.10080)
+- [Interactions Between Crosscoder Features: A Compact Proofs Perspective](https://arxiv.org/abs/2606.09940)
+- [When Attribution Patching Lies: Diagnosis and a Second-Order Correction](https://arxiv.org/abs/2606.09899)
 
 
 ### Dedicated Publication Threads
