@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 10, 2026 at 02:52:33 AM UTC
+June 11, 2026 at 03:24:56 AM UTC
 
 
 ## Theorem
 
-## Papers (915)
+## Papers (920)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -953,6 +953,11 @@ June 10, 2026 at 02:52:33 AM UTC
 - [VFUSE: Virulent Feature Understanding with Sparse autoEncoders](https://arxiv.org/abs/2606.10080)
 - [Interactions Between Crosscoder Features: A Compact Proofs Perspective](https://arxiv.org/abs/2606.09940)
 - [When Attribution Patching Lies: Diagnosis and a Second-Order Correction](https://arxiv.org/abs/2606.09899)
+- [ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386)
+- [The Standard Interpretable Model: A general theory of interpretable machine learning to deductively design interpretable methods using Lagrangian mechanics](https://arxiv.org/abs/2606.12289)
+- [Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe](https://arxiv.org/abs/2606.12209)
+- [Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](https://arxiv.org/abs/2606.11657)
+- [Impact of Oxygen on DNA Damage Distribution in 3D Genome and its Correlation to Oxygen Enhancement Ratio after High-LET Irradiation](https://arxiv.org/abs/2503.21837)
 
 
 ### Dedicated Publication Threads
