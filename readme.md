@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 11, 2026 at 03:24:56 AM UTC
+June 12, 2026 at 03:24:35 AM UTC
 
 
 ## Theorem
 
-## Papers (920)
+## Papers (927)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -958,6 +958,13 @@ June 11, 2026 at 03:24:56 AM UTC
 - [Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe](https://arxiv.org/abs/2606.12209)
 - [Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](https://arxiv.org/abs/2606.11657)
 - [Impact of Oxygen on DNA Damage Distribution in 3D Genome and its Correlation to Oxygen Enhancement Ratio after High-LET Irradiation](https://arxiv.org/abs/2503.21837)
+- [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](https://arxiv.org/abs/2605.25225)
+- [Layer-Resolved Optimal Transport for Hallucination Detection in NMT and Abstractive Summarization](https://arxiv.org/abs/2606.13216)
+- [Understanding helpfulness and harmless tension in reward models](https://arxiv.org/abs/2606.13209)
+- [When Does Routing Become Interpretable? Causal Probes on Block Attention Residuals](https://arxiv.org/abs/2606.13168)
+- [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](https://arxiv.org/abs/2606.13106)
+- [On Pitfalls of \textit{RemOve-And-Retrain}\textit{RemOve-And-Retrain}: Data Processing Inequality Perspective](https://arxiv.org/abs/2304.13836)
+- [Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns](https://arxiv.org/abs/2606.12629)
 
 
 ### Dedicated Publication Threads
