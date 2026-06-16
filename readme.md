@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 14, 2026 at 03:28:35 AM UTC
+June 16, 2026 at 03:34:11 AM UTC
 
 
 ## Theorem
 
-## Papers (927)
+## Papers (942)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -965,6 +965,21 @@ June 14, 2026 at 03:28:35 AM UTC
 - [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](https://arxiv.org/abs/2606.13106)
 - [On Pitfalls of \textit{RemOve-And-Retrain}\textit{RemOve-And-Retrain}: Data Processing Inequality Perspective](https://arxiv.org/abs/2304.13836)
 - [Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns](https://arxiv.org/abs/2606.12629)
+- [Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939)
+- [Demystifying Variance in Circuit Discovery of LLMs](https://arxiv.org/abs/2606.16920)
+- [Factorized Neural Operators Decompose Dynamic and Persistent Responses](https://arxiv.org/abs/2606.16900)
+- [Learning Hybrid Biophysical Neuron Models with Neural ODEs](https://arxiv.org/abs/2606.16693)
+- [Circuit Tracing in Autoregressive Protein Language Models](https://arxiv.org/abs/2606.16044)
+- [DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796)
+- [HAPI-EP: Towards Hybrid, Adaptive, and Predictive Digital Twins of Cardiac Electrophysiology](https://arxiv.org/abs/2606.15637)
+- [Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: A Mechanistic Interpretability Audit of Ethical Reasoning](https://arxiv.org/abs/2606.15507)
+- [Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning](https://arxiv.org/abs/2601.18699)
+- [Size Doesn't Matter: Cosine-Scored Sparse Autoencoders](https://arxiv.org/abs/2606.15054)
+- [Transformers Learn the Mestre-Nagao Heuristic](https://arxiv.org/abs/2606.15036)
+- [Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990)
+- [Compressed Computation is (probably) not Computation in Superposition](https://arxiv.org/abs/2606.14673)
+- [A Low-Rank Subspace Analysis of LLM Interventions](https://arxiv.org/abs/2606.14388)
+- [Where's the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions](https://arxiv.org/abs/2605.07984)
 
 
 ### Dedicated Publication Threads
