@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 16, 2026 at 03:34:11 AM UTC
+June 17, 2026 at 03:32:24 AM UTC
 
 
 ## Theorem
 
-## Papers (942)
+## Papers (945)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -980,6 +980,9 @@ June 16, 2026 at 03:34:11 AM UTC
 - [Compressed Computation is (probably) not Computation in Superposition](https://arxiv.org/abs/2606.14673)
 - [A Low-Rank Subspace Analysis of LLM Interventions](https://arxiv.org/abs/2606.14388)
 - [Where's the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions](https://arxiv.org/abs/2605.07984)
+- [Ten Years of the Stochastic Resonance Model of Tinnitus: From Phantom Perception to Adaptive Sensory Optimization](https://arxiv.org/abs/2606.17736)
+- [The Discrete-Log Clock: How a Transformer Learns Modular Multiplication](https://arxiv.org/abs/2606.17399)
+- [Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2606.17093)
 
 
 ### Dedicated Publication Threads
