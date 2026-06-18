@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 17, 2026 at 03:32:24 AM UTC
+June 18, 2026 at 03:24:16 AM UTC
 
 
 ## Theorem
 
-## Papers (945)
+## Papers (952)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -983,6 +983,13 @@ June 17, 2026 at 03:32:24 AM UTC
 - [Ten Years of the Stochastic Resonance Model of Tinnitus: From Phantom Perception to Adaptive Sensory Optimization](https://arxiv.org/abs/2606.17736)
 - [The Discrete-Log Clock: How a Transformer Learns Modular Multiplication](https://arxiv.org/abs/2606.17399)
 - [Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2606.17093)
+- [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](https://arxiv.org/abs/2606.19145)
+- [Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs](https://arxiv.org/abs/2606.18924)
+- [Closing the Loop: PID Feedback Control for Interpretable Activation Steering in Symbolic Music Generation](https://arxiv.org/abs/2606.18790)
+- [Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment](https://arxiv.org/abs/2606.18703)
+- [The Wrong Kind of Right: Quantifying and Localizing Misfired Alignment in LLMs](https://arxiv.org/abs/2606.18656)
+- [Effects of sparsity and superposition on loss in simple autoencoders](https://arxiv.org/abs/2606.18538)
+- [Beyond AHI: An Interpretable Causal-Discovery-Guided Framework for Sleep Recovery in Connected Health](https://arxiv.org/abs/2606.18506)
 
 
 ### Dedicated Publication Threads
