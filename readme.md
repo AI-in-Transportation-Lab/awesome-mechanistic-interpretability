@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 18, 2026 at 03:24:16 AM UTC
+June 19, 2026 at 03:46:53 AM UTC
 
 
 ## Theorem
 
-## Papers (952)
+## Papers (955)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -990,6 +990,9 @@ June 18, 2026 at 03:24:16 AM UTC
 - [The Wrong Kind of Right: Quantifying and Localizing Misfired Alignment in LLMs](https://arxiv.org/abs/2606.18656)
 - [Effects of sparsity and superposition on loss in simple autoencoders](https://arxiv.org/abs/2606.18538)
 - [Beyond AHI: An Interpretable Causal-Discovery-Guided Framework for Sleep Recovery in Connected Health](https://arxiv.org/abs/2606.18506)
+- [Critical Percolation as a Synthetic Data Model for Interpretability](https://arxiv.org/abs/2606.20347)
+- [Decoding the Alzheimer's Continuum: Interpretable Multi-Gate Routing for Diagnosis and Transition Prediction](https://arxiv.org/abs/2508.01819)
+- [Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2606.19882)
 
 
 ### Dedicated Publication Threads
