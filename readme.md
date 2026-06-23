@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 22, 2026 at 03:38:42 AM UTC
+June 23, 2026 at 02:44:22 AM UTC
 
 
 ## Theorem
 
-## Papers (955)
+## Papers (962)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -993,6 +993,13 @@ June 22, 2026 at 03:38:42 AM UTC
 - [Critical Percolation as a Synthetic Data Model for Interpretability](https://arxiv.org/abs/2606.20347)
 - [Decoding the Alzheimer's Continuum: Interpretable Multi-Gate Routing for Diagnosis and Transition Prediction](https://arxiv.org/abs/2508.01819)
 - [Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2606.19882)
+- [Residue-Level Attributions in Protein Language Models Do Not Recover Allergen Epitopes](https://arxiv.org/abs/2606.22181)
+- [Sparse Neuron Ablation Triggers Catastrophic Collapse of the Language Core in Large Vision-Language Models](https://arxiv.org/abs/2512.00918)
+- [Local Causal Attribution of Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.21821)
+- [Beyond Hooking Onto the World: Referential Profiles and the Numerical Structure of LLM Grounding](https://arxiv.org/abs/2606.21195)
+- [A Validation-Gated Mechanistic Account of Suicidality Detection in LLMs](https://arxiv.org/abs/2606.21078)
+- [BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery](https://arxiv.org/abs/2606.20997)
+- [Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components](https://arxiv.org/abs/2606.20678)
 
 
 ### Dedicated Publication Threads
