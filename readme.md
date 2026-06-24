@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 23, 2026 at 02:44:22 AM UTC
+June 24, 2026 at 02:45:22 AM UTC
 
 
 ## Theorem
 
-## Papers (962)
+## Papers (970)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1000,6 +1000,14 @@ June 23, 2026 at 02:44:22 AM UTC
 - [A Validation-Gated Mechanistic Account of Suicidality Detection in LLMs](https://arxiv.org/abs/2606.21078)
 - [BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery](https://arxiv.org/abs/2606.20997)
 - [Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components](https://arxiv.org/abs/2606.20678)
+- [DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects](https://arxiv.org/abs/2606.24779)
+- [The mechanics of anisotropic active plates with applications to cell alignment on curved substrates](https://arxiv.org/abs/2512.19755)
+- [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040)
+- [Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](https://arxiv.org/abs/2606.24026)
+- [Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](https://arxiv.org/abs/2509.03647)
+- [A Reduced Order Model for Emergent Mechanics in Woven Systems](https://arxiv.org/abs/2606.23658)
+- [Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification](https://arxiv.org/abs/2606.23764)
+- [AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent](https://arxiv.org/abs/2606.22673)
 
 
 ### Dedicated Publication Threads
