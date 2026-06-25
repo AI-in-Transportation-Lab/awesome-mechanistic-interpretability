@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 24, 2026 at 02:45:22 AM UTC
+June 25, 2026 at 02:45:08 AM UTC
 
 
 ## Theorem
 
-## Papers (970)
+## Papers (971)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1008,6 +1008,7 @@ June 24, 2026 at 02:45:22 AM UTC
 - [A Reduced Order Model for Emergent Mechanics in Woven Systems](https://arxiv.org/abs/2606.23658)
 - [Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification](https://arxiv.org/abs/2606.23764)
 - [AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent](https://arxiv.org/abs/2606.22673)
+- [Perfect Detection, Failed Control: The Geometry of Knowing vs. Steering in Language Models](https://arxiv.org/abs/2606.24952)
 
 
 ### Dedicated Publication Threads
