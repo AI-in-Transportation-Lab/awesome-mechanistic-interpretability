@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 28, 2026 at 02:54:52 AM UTC
+June 29, 2026 at 02:55:26 AM UTC
 
 
 ## Theorem
 
-## Papers (976)
+## Papers (979)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1014,6 +1014,9 @@ June 28, 2026 at 02:54:52 AM UTC
 - [Radical AI Interpretability](https://arxiv.org/abs/2606.26523)
 - [Localizing RL-Induced Tool Use to a Single Crosscoder Feature](https://arxiv.org/abs/2606.26474)
 - [Refusal Lives Downstream of Persona in Chat Models](https://arxiv.org/abs/2606.26161)
+- [Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA](https://arxiv.org/abs/2606.28050)
+- [The Curse of Multiple Mediators: Hidden Interaction Effects in Activation Patching](https://arxiv.org/abs/2606.27510)
+- [PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](https://arxiv.org/abs/2606.27440)
 
 
 ### Dedicated Publication Threads
