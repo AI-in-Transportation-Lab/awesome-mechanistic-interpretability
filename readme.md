@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-June 30, 2026 at 02:49:12 AM UTC
+July 1, 2026 at 02:54:47 AM UTC
 
 
 ## Theorem
 
-## Papers (987)
+## Papers (992)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1025,6 +1025,11 @@ June 30, 2026 at 02:49:12 AM UTC
 - [Attribution Graphs and Causal Probing for Mechanistic Discovery and Bias Repair in Multimodal Generative Learning](https://arxiv.org/abs/2510.12957)
 - [Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770)
 - [Sparse Autoencoders are Capable LLM Jailbreak Mitigators](https://arxiv.org/abs/2602.12418)
+- [Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?](https://arxiv.org/abs/2606.32008)
+- [Deductive Logic in Language Models: Horizontal vs Vertical Reasoning](https://arxiv.org/abs/2510.09340)
+- [Deep Indentation of Hyperelastic Materials Reveals Tip Independent Parabolic Force Depth Response via Strain Energy Delocalization](https://arxiv.org/abs/2606.30971)
+- [An Interaction Language Model: Mechanism Discovery from Statistical Patterns of Physical Interactions](https://arxiv.org/abs/2606.30922)
+- [A Mechanistic Study of Transformers Training Dynamics](https://arxiv.org/abs/2410.24050)
 
 
 ### Dedicated Publication Threads
