@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 1, 2026 at 02:54:47 AM UTC
+July 2, 2026 at 02:44:53 AM UTC
 
 
 ## Theorem
 
-## Papers (992)
+## Papers (996)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1030,6 +1030,10 @@ July 1, 2026 at 02:54:47 AM UTC
 - [Deep Indentation of Hyperelastic Materials Reveals Tip Independent Parabolic Force Depth Response via Strain Energy Delocalization](https://arxiv.org/abs/2606.30971)
 - [An Interaction Language Model: Mechanism Discovery from Statistical Patterns of Physical Interactions](https://arxiv.org/abs/2606.30922)
 - [A Mechanistic Study of Transformers Training Dynamics](https://arxiv.org/abs/2410.24050)
+- [Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation](https://arxiv.org/abs/2607.01208)
+- [Muon as a Residual Connection](https://arxiv.org/abs/2607.01124)
+- [LLM-Guided ODE Discovery and Parameter Inference from Small-Cohort Aggregate Data](https://arxiv.org/abs/2607.00733)
+- [Representation as a Bottleneck for Mechanistic Interpretability: The Manifestation Unit Protocol](https://arxiv.org/abs/2607.00089)
 
 
 ### Dedicated Publication Threads
