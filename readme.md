@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 2, 2026 at 02:44:53 AM UTC
+July 3, 2026 at 02:27:46 AM UTC
 
 
 ## Theorem
 
-## Papers (996)
+## Papers (1003)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1034,6 +1034,13 @@ July 2, 2026 at 02:44:53 AM UTC
 - [Muon as a Residual Connection](https://arxiv.org/abs/2607.01124)
 - [LLM-Guided ODE Discovery and Parameter Inference from Small-Cohort Aggregate Data](https://arxiv.org/abs/2607.00733)
 - [Representation as a Bottleneck for Mechanistic Interpretability: The Manifestation Unit Protocol](https://arxiv.org/abs/2607.00089)
+- [Towards Robustness against Typographic Attack with Training-free Concept Localization](https://arxiv.org/abs/2607.02494)
+- [Fast Multi-dimensional Refusal Subspaces via RFM-AGOP](https://arxiv.org/abs/2607.02396)
+- [Conditional Co-Ablation: Recovering Self-Repair Backups in Transformer Circuits](https://arxiv.org/abs/2607.01940)
+- [Expander Sparse Autoencoders: Parameter-Efficient Dictionaries for Mechanistic Interpretability](https://arxiv.org/abs/2607.01799)
+- [Identifiability Limits of Physics-Informed Inference for Spatial Stochastic Dynamics from Static Snapshots](https://arxiv.org/abs/2607.01749)
+- [From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents](https://arxiv.org/abs/2604.19775)
+- [Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders](https://arxiv.org/abs/2607.01336)
 
 
 ### Dedicated Publication Threads
