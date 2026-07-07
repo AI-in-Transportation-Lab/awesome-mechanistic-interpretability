@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 6, 2026 at 02:39:29 AM UTC
+July 7, 2026 at 02:35:57 AM UTC
 
 
 ## Theorem
 
-## Papers (1003)
+## Papers (1010)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1041,6 +1041,13 @@ July 6, 2026 at 02:39:29 AM UTC
 - [Identifiability Limits of Physics-Informed Inference for Spatial Stochastic Dynamics from Static Snapshots](https://arxiv.org/abs/2607.01749)
 - [From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents](https://arxiv.org/abs/2604.19775)
 - [Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders](https://arxiv.org/abs/2607.01336)
+- [Predicting Therapeutic Outcome via Aligning Patient-Specific Knowledge Graph and Gene-Level Perturbation Representations](https://arxiv.org/abs/2607.04557)
+- [Geometry of Ordinal Representations in Language Models](https://arxiv.org/abs/2607.04167)
+- [Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](https://arxiv.org/abs/2503.06269)
+- [Brand-as-Memory: Vision-Language Models Encode Causal, Mechanistically Localizable Credibility Priors for News Sources](https://arxiv.org/abs/2607.03365)
+- [Individual Parameters in Weight-Sparse Transformers Appear Interpretable](https://arxiv.org/abs/2607.02964)
+- [MatPhaseBench: A Semantics-Guided Benchmark for Materials Phase Diagrams Understanding](https://arxiv.org/abs/2607.02934)
+- [Induction Heads Interpolate N-Grams](https://arxiv.org/abs/2607.02800)
 
 
 ### Dedicated Publication Threads
