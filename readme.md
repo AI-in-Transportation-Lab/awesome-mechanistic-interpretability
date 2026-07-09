@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 8, 2026 at 02:09:07 AM UTC
+July 9, 2026 at 02:27:26 AM UTC
 
 
 ## Theorem
 
-## Papers (1012)
+## Papers (1019)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1050,6 +1050,13 @@ July 8, 2026 at 02:09:07 AM UTC
 - [Induction Heads Interpolate N-Grams](https://arxiv.org/abs/2607.02800)
 - [Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders](https://arxiv.org/abs/2607.06445)
 - [Latent Programming Horizons in Coding Agents](https://arxiv.org/abs/2607.05188)
+- [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://arxiv.org/abs/2607.07708)
+- [How Learning Dynamics Drive Adversarially Robust Generalization?](https://arxiv.org/abs/2410.07719)
+- [Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design](https://arxiv.org/abs/2607.07425)
+- [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316)
+- [From Statistical to Structural Synergy: A Predictability Framework to Quantify the Effects due to High-Order Mechanisms](https://arxiv.org/abs/2607.07286)
+- [Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits](https://arxiv.org/abs/2607.07066)
+- [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
 
 
 ### Dedicated Publication Threads
