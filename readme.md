@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 9, 2026 at 02:27:26 AM UTC
+July 10, 2026 at 02:29:27 AM UTC
 
 
 ## Theorem
 
-## Papers (1019)
+## Papers (1028)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1057,6 +1057,15 @@ July 9, 2026 at 02:27:26 AM UTC
 - [From Statistical to Structural Synergy: A Predictability Framework to Quantify the Effects due to High-Order Mechanisms](https://arxiv.org/abs/2607.07286)
 - [Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits](https://arxiv.org/abs/2607.07066)
 - [Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003)
+- [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](https://arxiv.org/abs/2607.08605)
+- [Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders](https://arxiv.org/abs/2607.08499)
+- [The impact of nonheritable variation in division rates on population growth across environments](https://arxiv.org/abs/2511.01905)
+- [Towards Isolated Interventions via Almost Orthogonal Features in Language Models](https://arxiv.org/abs/2602.04718)
+- [Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability](https://arxiv.org/abs/2607.08349)
+- [Before the Last Token: Diagnosing Final-Token Safety Probe Failures](https://arxiv.org/abs/2605.12726)
+- [Diagnosing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2606.17093)
+- [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903)
+- [Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194)
 
 
 ### Dedicated Publication Threads
