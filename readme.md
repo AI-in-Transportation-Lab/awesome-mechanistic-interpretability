@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 13, 2026 at 02:12:20 AM UTC
+July 14, 2026 at 01:57:52 AM UTC
 
 
 ## Theorem
 
-## Papers (1028)
+## Papers (1030)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1066,6 +1066,8 @@ July 13, 2026 at 02:12:20 AM UTC
 - [Diagnosing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry](https://arxiv.org/abs/2606.17093)
 - [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903)
 - [Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194)
+- [Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge](https://arxiv.org/abs/2607.10221)
+- [MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers](https://arxiv.org/abs/2607.10034)
 
 
 ### Dedicated Publication Threads
