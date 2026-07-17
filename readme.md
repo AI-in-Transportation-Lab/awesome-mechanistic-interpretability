@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 16, 2026 at 02:04:49 AM UTC
+July 17, 2026 at 02:07:56 AM UTC
 
 
 ## Theorem
 
-## Papers (1037)
+## Papers (1041)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1075,6 +1075,10 @@ July 16, 2026 at 02:04:49 AM UTC
 - [Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint](https://arxiv.org/abs/2605.00778)
 - [AI-Augmented Adaptive Digital Twin Modeling for Brain Tumor Evolution Prediction and Treatment Scheduling](https://arxiv.org/abs/2607.13877)
 - [The Refusal Residue: When Probes Catch Alignment Faking and When They Don't](https://arxiv.org/abs/2607.13346)
+- [RTS Smoother-Guided Learning of Physics-Based Neural Differential Models](https://arxiv.org/abs/2607.15180)
+- [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943)
+- [Transcoders for Investigating Deception in Language Models](https://arxiv.org/abs/2607.14791)
+- [Tracing LLM Behavior to the Training Data with Empirical Next-Token Distributions](https://arxiv.org/abs/2607.14306)
 
 
 ### Dedicated Publication Threads
