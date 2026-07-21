@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 20, 2026 at 02:29:23 AM UTC
+July 21, 2026 at 02:07:46 AM UTC
 
 
 ## Theorem
 
-## Papers (1041)
+## Papers (1050)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1079,6 +1079,15 @@ July 20, 2026 at 02:29:23 AM UTC
 - [Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943)
 - [Transcoders for Investigating Deception in Language Models](https://arxiv.org/abs/2607.14791)
 - [Tracing LLM Behavior to the Training Data with Empirical Next-Token Distributions](https://arxiv.org/abs/2607.14306)
+- [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](https://arxiv.org/abs/2506.07691)
+- [Language Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models](https://arxiv.org/abs/2602.10382)
+- [Compartmental Disease Models with Time-Varying Transmission Rates: A Bayesian Generalized Hamiltonian Monte Carlo framework with Applications to COVID-19](https://arxiv.org/abs/2301.06385)
+- [Measuring Monosemanticity in Sparse Autoencoders via Latent Activation Coherence](https://arxiv.org/abs/2607.17770)
+- [Dispersal diversity buffers species vulnerability to local extinction](https://arxiv.org/abs/2604.26589)
+- [What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning](https://arxiv.org/abs/2607.16938)
+- [Are Arithmetic Heuristic Neurons Form-Invariant? A Mechanistic Analysis of Symbols, Text, and Code in LLMs](https://arxiv.org/abs/2607.16693)
+- [Can Interpretation Predict Behavior on Unseen Data?](https://arxiv.org/abs/2507.06445)
+- [Emergent Hierarchical Monosemantic Neurons from the Group-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2607.16295)
 
 
 ### Dedicated Publication Threads
