@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 22, 2026 at 02:05:48 AM UTC
+July 23, 2026 at 02:11:59 AM UTC
 
 
 ## Theorem
 
-## Papers (1052)
+## Papers (1055)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1090,6 +1090,9 @@ July 22, 2026 at 02:05:48 AM UTC
 - [Emergent Hierarchical Monosemantic Neurons from the Group-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2607.16295)
 - [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2607.19317)
 - [Spatially resolved in-situ characterisation of competing martensitic transformation pathways during nanoscratch in 316H Stainless Steel](https://arxiv.org/abs/2607.19239)
+- [Interval and fuzzy physics-augmented neural networks (iPANN and fPANN) for uncertainty quantification and propagation in constitutive modeling](https://arxiv.org/abs/2607.20339)
+- [A Hybrid Framework for Uncertainty Quantification in Partially Observed Dynamic Biological Systems](https://arxiv.org/abs/2607.20044)
+- [OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806)
 
 
 ### Dedicated Publication Threads
