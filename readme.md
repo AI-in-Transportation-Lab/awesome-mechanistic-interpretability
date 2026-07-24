@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 23, 2026 at 02:11:59 AM UTC
+July 24, 2026 at 02:08:48 AM UTC
 
 
 ## Theorem
 
-## Papers (1055)
+## Papers (1058)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1093,6 +1093,9 @@ July 23, 2026 at 02:11:59 AM UTC
 - [Interval and fuzzy physics-augmented neural networks (iPANN and fPANN) for uncertainty quantification and propagation in constitutive modeling](https://arxiv.org/abs/2607.20339)
 - [A Hybrid Framework for Uncertainty Quantification in Partially Observed Dynamic Biological Systems](https://arxiv.org/abs/2607.20044)
 - [OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806)
+- [Post-Hoc Reasoning in Chain of Thought: Decoding and Steering Pre-Committed Answers](https://arxiv.org/abs/2603.01437)
+- [From Noise to Diversity: Random Embedding Injection in LLM Reasoning](https://arxiv.org/abs/2605.11936)
+- [Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778)
 
 
 ### Dedicated Publication Threads
