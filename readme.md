@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 27, 2026 at 02:26:37 AM UTC
+July 28, 2026 at 02:02:02 AM UTC
 
 
 ## Theorem
 
-## Papers (1058)
+## Papers (1065)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1096,6 +1096,13 @@ July 27, 2026 at 02:26:37 AM UTC
 - [Post-Hoc Reasoning in Chain of Thought: Decoding and Steering Pre-Committed Answers](https://arxiv.org/abs/2603.01437)
 - [From Noise to Diversity: Random Embedding Injection in LLM Reasoning](https://arxiv.org/abs/2605.11936)
 - [Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778)
+- [What Does Chain-of-Thought Contribute at Probe Time? Evidence for Local Co-Occurrence Activation](https://arxiv.org/abs/2605.26795)
+- [A Mechanistic Perspective and Circuit-Guided Difficulty Metric for Unlearning](https://arxiv.org/abs/2601.09624)
+- [Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496)
+- [Continuous surrogates versus threshold Boolean networks for modeling Arabidopsis ISR gene regulation](https://arxiv.org/abs/2607.23289)
+- [Inverse Bayesian Inference for Extracting Lesion Dynamics from Longitudinal Spectral CT](https://arxiv.org/abs/2607.23078)
+- [Through the Bottleneck: How Multi-head Latent Attention Separates Content from Position in Language Models](https://arxiv.org/abs/2607.23054)
+- [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://arxiv.org/abs/2605.07407)
 
 
 ### Dedicated Publication Threads
