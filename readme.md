@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 28, 2026 at 02:02:02 AM UTC
+July 29, 2026 at 02:04:09 AM UTC
 
 
 ## Theorem
 
-## Papers (1065)
+## Papers (1069)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1103,6 +1103,10 @@ July 28, 2026 at 02:02:02 AM UTC
 - [Inverse Bayesian Inference for Extracting Lesion Dynamics from Longitudinal Spectral CT](https://arxiv.org/abs/2607.23078)
 - [Through the Bottleneck: How Multi-head Latent Attention Separates Content from Position in Language Models](https://arxiv.org/abs/2607.23054)
 - [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://arxiv.org/abs/2605.07407)
+- [Phase Structure in Rotary Attention: A Spectral Framework for Semantic Continuity and Execution-Boundary Governance](https://arxiv.org/abs/2607.25507)
+- [Emergent Latent-State Computation under Stochastic Volatility](https://arxiv.org/abs/2607.25459)
+- [Beyond the Post Hoc User Study: Modeling Visual Decision-Making with Active Inference](https://arxiv.org/abs/2607.25131)
+- [A Hierarchical Validity-Audit Framework for Neural Mass Models in Simulation-Based Inference: From Observational Coverage to Mechanistic Interpretation](https://arxiv.org/abs/2607.24874)
 
 
 ### Dedicated Publication Threads
