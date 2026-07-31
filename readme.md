@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-July 30, 2026 at 01:53:58 AM UTC
+July 31, 2026 at 02:12:55 AM UTC
 
 
 ## Theorem
 
-## Papers (1070)
+## Papers (1071)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1108,6 +1108,7 @@ July 30, 2026 at 01:53:58 AM UTC
 - [Beyond the Post Hoc User Study: Modeling Visual Decision-Making with Active Inference](https://arxiv.org/abs/2607.25131)
 - [A Hierarchical Validity-Audit Framework for Neural Mass Models in Simulation-Based Inference: From Observational Coverage to Mechanistic Interpretation](https://arxiv.org/abs/2607.24874)
 - [Can We Trust AI in 6G? Verifiable and Auditable AI-Driven Trustworthy Wireless Networks](https://arxiv.org/abs/2607.26409)
+- [HYVINT: Intensity-Driven Hypergraph Generation with Variational Embeddings](https://arxiv.org/abs/2605.16836)
 
 
 ### Dedicated Publication Threads
