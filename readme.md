@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 3, 2026 at 02:13:46 AM UTC
+August 4, 2026 at 01:59:19 AM UTC
 
 
 ## Theorem
 
-## Papers (1072)
+## Papers (1075)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1110,6 +1110,9 @@ August 3, 2026 at 02:13:46 AM UTC
 - [Can We Trust AI in 6G? Verifiable and Auditable AI-Driven Trustworthy Wireless Networks](https://arxiv.org/abs/2607.26409)
 - [HYVINT: Intensity-Driven Hypergraph Generation with Variational Embeddings](https://arxiv.org/abs/2605.16836)
 - [Information Processing by Neuron Populations in the Central Nervous System: A Theory of the Mathematical Structure of Data and Operations](https://arxiv.org/abs/2309.02332)
+- [Generic Vision and Cross-Attention for Reaction Yield Prediction](https://arxiv.org/abs/2608.00776)
+- [DiffuseAgent-MI: Distributionally-Grounded,Tool-Integrated Self-Evolving Agents for Faithful Visual Reasoning](https://arxiv.org/abs/2608.00540)
+- [Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions, validity domains, and computational trade-offs](https://arxiv.org/abs/2608.00306)
 
 
 ### Dedicated Publication Threads
