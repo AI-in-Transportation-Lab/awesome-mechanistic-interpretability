@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 4, 2026 at 01:59:19 AM UTC
+August 5, 2026 at 01:58:37 AM UTC
 
 
 ## Theorem
 
-## Papers (1075)
+## Papers (1082)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1113,6 +1113,13 @@ August 4, 2026 at 01:59:19 AM UTC
 - [Generic Vision and Cross-Attention for Reaction Yield Prediction](https://arxiv.org/abs/2608.00776)
 - [DiffuseAgent-MI: Distributionally-Grounded,Tool-Integrated Self-Evolving Agents for Faithful Visual Reasoning](https://arxiv.org/abs/2608.00540)
 - [Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions, validity domains, and computational trade-offs](https://arxiv.org/abs/2608.00306)
+- [A Conductance Based Amygdala Model of Threat Processing in Anxiety and Depression](https://arxiv.org/abs/2608.03712)
+- [The production of meaning in the processing of natural language](https://arxiv.org/abs/2603.20381)
+- [Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS_2_2](https://arxiv.org/abs/2608.02456)
+- [Cardiovascular Digital Twins from Physics Based to Data Driven Approaches](https://arxiv.org/abs/2608.02135)
+- [Superposition Without Interference? Towards Isolated Interventions via Almost Orthogonal Features in Language Models](https://arxiv.org/abs/2602.04718)
+- [Wigner's Friend Paradox Revisited](https://arxiv.org/abs/2608.02635)
+- [LLMs Can Annotate Attribution Graphs](https://arxiv.org/abs/2608.02632)
 
 
 ### Dedicated Publication Threads
