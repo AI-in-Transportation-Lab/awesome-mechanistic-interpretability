@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 9, 2026 at 01:15:06 AM UTC
+August 10, 2026 at 01:16:56 AM UTC
 
 
 ## Theorem
 
-## Papers (1085)
+## Papers (1089)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1123,6 +1123,10 @@ August 9, 2026 at 01:15:06 AM UTC
 - [Sparse Weight Decomposition for Efficient Circuit Extraction](https://arxiv.org/abs/2608.03913)
 - [Curriculum Multiple Shooting for Robust Training of Neural and Universal Differential Equations](https://arxiv.org/abs/2608.05777)
 - [Subliminal Learning is Non-Semantic Distillation](https://arxiv.org/abs/2608.05734)
+- [Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking](https://arxiv.org/abs/2608.07077)
+- [Finding Usable Weight Mechanisms with Tiled SVD](https://arxiv.org/abs/2608.06969)
+- [Equivariant Sparse Autoencoders: Mechanistic Interpretability of Neural Networks on Symmetric Data](https://arxiv.org/abs/2511.09432)
+- [MI-MIDI: Mechanistic Interpretability of Text-to-MIDI Generation Models via Probing, Lenses and Steering](https://arxiv.org/abs/2608.06638)
 
 
 ### Dedicated Publication Threads
