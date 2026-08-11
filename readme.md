@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 10, 2026 at 01:16:56 AM UTC
+August 11, 2026 at 01:15:17 AM UTC
 
 
 ## Theorem
 
-## Papers (1089)
+## Papers (1092)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1127,6 +1127,9 @@ August 10, 2026 at 01:16:56 AM UTC
 - [Finding Usable Weight Mechanisms with Tiled SVD](https://arxiv.org/abs/2608.06969)
 - [Equivariant Sparse Autoencoders: Mechanistic Interpretability of Neural Networks on Symmetric Data](https://arxiv.org/abs/2511.09432)
 - [MI-MIDI: Mechanistic Interpretability of Text-to-MIDI Generation Models via Probing, Lenses and Steering](https://arxiv.org/abs/2608.06638)
+- [Can Graph Learning Learn Circuits?](https://arxiv.org/abs/2608.08536)
+- [Control-Diverse Reinforcement Fine-Tuning: Decoupling the Shared Control Bottleneck of RL Post-Training](https://arxiv.org/abs/2608.08224)
+- [Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation](https://arxiv.org/abs/2608.07562)
 
 
 ### Dedicated Publication Threads
