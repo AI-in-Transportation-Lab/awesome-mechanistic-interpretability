@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 11, 2026 at 01:15:17 AM UTC
+August 12, 2026 at 01:23:02 AM UTC
 
 
 ## Theorem
 
-## Papers (1092)
+## Papers (1097)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1130,6 +1130,11 @@ August 11, 2026 at 01:15:17 AM UTC
 - [Can Graph Learning Learn Circuits?](https://arxiv.org/abs/2608.08536)
 - [Control-Diverse Reinforcement Fine-Tuning: Decoupling the Shared Control Bottleneck of RL Post-Training](https://arxiv.org/abs/2608.08224)
 - [Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation](https://arxiv.org/abs/2608.07562)
+- [Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability](https://arxiv.org/abs/2608.10172)
+- [Decoding Transient X-ray Absorption Spectra of Acetylacetone With Multireference Algebraic Diagrammatic Construction Theory](https://arxiv.org/abs/2608.09747)
+- [From Rating Factors to Crash Mechanisms: A Multiscale Causal DAG Framework Linking Motor Insurance and Road Safety](https://arxiv.org/abs/2608.09441)
+- [Who Bridges Safety? Identifying and Targeting Cross-Lingual Shared Safety Pathways](https://arxiv.org/abs/2608.09095)
+- [Label-Free Parkinson's Disease Screening from Face and Voice through Mechanistic Interpretability](https://arxiv.org/abs/2608.08976)
 
 
 ### Dedicated Publication Threads
