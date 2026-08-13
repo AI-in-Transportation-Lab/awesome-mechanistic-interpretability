@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 12, 2026 at 01:23:02 AM UTC
+August 13, 2026 at 01:24:45 AM UTC
 
 
 ## Theorem
 
-## Papers (1097)
+## Papers (1101)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1135,6 +1135,10 @@ August 12, 2026 at 01:23:02 AM UTC
 - [From Rating Factors to Crash Mechanisms: A Multiscale Causal DAG Framework Linking Motor Insurance and Road Safety](https://arxiv.org/abs/2608.09441)
 - [Who Bridges Safety? Identifying and Targeting Cross-Lingual Shared Safety Pathways](https://arxiv.org/abs/2608.09095)
 - [Label-Free Parkinson's Disease Screening from Face and Voice through Mechanistic Interpretability](https://arxiv.org/abs/2608.08976)
+- [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://arxiv.org/abs/2502.00837)
+- [Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence](https://arxiv.org/abs/2608.12036)
+- [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](https://arxiv.org/abs/2608.11171)
+- [Observable-Reduction-Guided Sparse Regression for Partially Observed Active-Quiescent Systems](https://arxiv.org/abs/2608.11125)
 
 
 ### Dedicated Publication Threads
