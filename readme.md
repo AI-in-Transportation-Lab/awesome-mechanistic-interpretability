@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 13, 2026 at 01:24:45 AM UTC
+August 14, 2026 at 01:24:40 AM UTC
 
 
 ## Theorem
 
-## Papers (1101)
+## Papers (1102)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1139,6 +1139,7 @@ August 13, 2026 at 01:24:45 AM UTC
 - [Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence](https://arxiv.org/abs/2608.12036)
 - [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](https://arxiv.org/abs/2608.11171)
 - [Observable-Reduction-Guided Sparse Regression for Partially Observed Active-Quiescent Systems](https://arxiv.org/abs/2608.11125)
+- [Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia](https://arxiv.org/abs/2608.12717)
 
 
 ### Dedicated Publication Threads
