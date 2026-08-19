@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 17, 2026 at 12:55:11 AM UTC
+August 19, 2026 at 12:54:40 AM UTC
 
 
 ## Theorem
 
-## Papers (1103)
+## Papers (1115)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1141,6 +1141,18 @@ August 17, 2026 at 12:55:11 AM UTC
 - [Observable-Reduction-Guided Sparse Regression for Partially Observed Active-Quiescent Systems](https://arxiv.org/abs/2608.11125)
 - [Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia](https://arxiv.org/abs/2608.12717)
 - [Decoding Task Progress from VLA Representations](https://arxiv.org/abs/2608.13474)
+- [Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning](https://arxiv.org/abs/2608.16870)
+- [SCOUT: Semantic Concept Discovery for Open-Vocabulary Editing of face Recognition Templates](https://arxiv.org/abs/2608.16251)
+- [Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling](https://arxiv.org/abs/2608.16094)
+- [CulTrace: Tracing Internal Cultural Reasoning in Large Language Models](https://arxiv.org/abs/2508.08879)
+- [Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off](https://arxiv.org/abs/2608.15459)
+- [DA-RAC: Distance-Aware Calibration of LLM Judges for Trustworthy AI Auditing](https://arxiv.org/abs/2608.14950)
+- [SpIn-ViT: Designing a Sparsity-Induced Vision Transformer That Is Mechanistically Interpretable](https://arxiv.org/abs/2608.14922)
+- [A Tale of Two Pathways to Gompertz Mortality: Reliability and Vitality from an Actuarial Perspective](https://arxiv.org/abs/2608.14402)
+- [Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction](https://arxiv.org/abs/2608.14177)
+- [NAST: Improving Negation Handling in Medical Vision-Language Models through Negation-Aware Selective Training](https://arxiv.org/abs/2602.12498)
+- [SPEAR: Structure Property Explainability with Attention Regularization](https://arxiv.org/abs/2608.13826)
+- [Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation](https://arxiv.org/abs/2608.13754)
 
 
 ### Dedicated Publication Threads
