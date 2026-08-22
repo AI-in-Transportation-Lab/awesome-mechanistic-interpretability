@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 21, 2026 at 12:58:12 AM UTC
+August 22, 2026 at 12:54:30 AM UTC
 
 
 ## Theorem
 
-## Papers (1117)
+## Papers (1118)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1155,6 +1155,7 @@ August 21, 2026 at 12:58:12 AM UTC
 - [Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation](https://arxiv.org/abs/2608.13754)
 - [Inferring Mechanisms from Bits: Promises and Pitfalls of Higher-Order Information in Cognitive Science](https://arxiv.org/abs/2512.02671)
 - [Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B](https://arxiv.org/abs/2608.18419)
+- [Mechanistic Tomography: Designed Measurement for Control-Oriented Interpretability](https://arxiv.org/abs/2608.19338)
 
 
 ### Dedicated Publication Threads
