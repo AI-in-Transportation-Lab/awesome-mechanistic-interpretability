@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 24, 2026 at 12:56:37 AM UTC
+August 25, 2026 at 12:56:39 AM UTC
 
 
 ## Theorem
 
-## Papers (1118)
+## Papers (1122)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1156,6 +1156,10 @@ August 24, 2026 at 12:56:37 AM UTC
 - [Inferring Mechanisms from Bits: Promises and Pitfalls of Higher-Order Information in Cognitive Science](https://arxiv.org/abs/2512.02671)
 - [Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B](https://arxiv.org/abs/2608.18419)
 - [Mechanistic Tomography: Designed Measurement for Control-Oriented Interpretability](https://arxiv.org/abs/2608.19338)
+- [Explaining Intrinsic Moral Self-Correction with Mechanistic Interpretability](https://arxiv.org/abs/2505.11924)
+- [The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models](https://arxiv.org/abs/2501.10573)
+- [Structure is information: structural identifiability mappings for machine learning with partially observed dynamical systems](https://arxiv.org/abs/2502.04131)
+- [Deep Learning Models Also Recall Features](https://arxiv.org/abs/2608.20970)
 
 
 ### Dedicated Publication Threads
