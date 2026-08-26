@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 25, 2026 at 12:56:39 AM UTC
+August 26, 2026 at 12:57:24 AM UTC
 
 
 ## Theorem
 
-## Papers (1122)
+## Papers (1129)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1160,6 +1160,13 @@ August 25, 2026 at 12:56:39 AM UTC
 - [The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models](https://arxiv.org/abs/2501.10573)
 - [Structure is information: structural identifiability mappings for machine learning with partially observed dynamical systems](https://arxiv.org/abs/2502.04131)
 - [Deep Learning Models Also Recall Features](https://arxiv.org/abs/2608.20970)
+- [Bridging Linguistic Structure and Mechanistic Interpretability for Conceptual Interpretation in Language Models](https://arxiv.org/abs/2408.11827)
+- [Grounding Isn't Knowing: Do VLMs Need Object Localization for Spatial Reasoning?](https://arxiv.org/abs/2608.23074)
+- [What AstroPT knows about galaxies, and what that can teach us about LLMs](https://arxiv.org/abs/2608.22614)
+- [Mechanistic Interpretability of Chain-of-Thought Reasoning via Sequential Activation Patching](https://arxiv.org/abs/2608.22332)
+- [Why Does Robustness Reduce Superposition?](https://arxiv.org/abs/2608.22155)
+- [Align, Unify, Suppress, Route: A Coherentist View of Transformer Computation](https://arxiv.org/abs/2608.22034)
+- [The Communication Map of a Transformer](https://arxiv.org/abs/2608.22007)
 
 
 ### Dedicated Publication Threads
