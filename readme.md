@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 26, 2026 at 12:57:24 AM UTC
+August 27, 2026 at 06:48:23 AM UTC
 
 
 ## Theorem
 
-## Papers (1129)
+## Papers (1137)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1167,6 +1167,14 @@ August 26, 2026 at 12:57:24 AM UTC
 - [Why Does Robustness Reduce Superposition?](https://arxiv.org/abs/2608.22155)
 - [Align, Unify, Suppress, Route: A Coherentist View of Transformer Computation](https://arxiv.org/abs/2608.22034)
 - [The Communication Map of a Transformer](https://arxiv.org/abs/2608.22007)
+- [Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](https://arxiv.org/abs/2608.26090)
+- [Direct current thermo-mechanical testing: Principles, uncertainty hierarchy, and its role in advanced materials characterisation](https://arxiv.org/abs/2608.25525)
+- [RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons](https://arxiv.org/abs/2608.24758)
+- [Beyond Static Interpretability: Anticipating Post-SFT Mechanisms from Pre-SFT Parameters for Better Tuning](https://arxiv.org/abs/2608.24482)
+- [A Circuit, Not The Circuit: Non-Unique Causal Localisation of the Mamba-2 State Sink](https://arxiv.org/abs/2606.00930)
+- [Mechanistic Circuit Identification for Controllable Data Generation](https://arxiv.org/abs/2608.24065)
+- [Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders](https://arxiv.org/abs/2608.23809)
+- [Modality Contribution Score - A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease](https://arxiv.org/abs/2608.24931)
 
 
 ### Dedicated Publication Threads
