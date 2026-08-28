@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 27, 2026 at 06:48:23 AM UTC
+August 28, 2026 at 08:36:21 AM UTC
 
 
 ## Theorem
 
-## Papers (1137)
+## Papers (1141)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1175,6 +1175,10 @@ August 27, 2026 at 06:48:23 AM UTC
 - [Mechanistic Circuit Identification for Controllable Data Generation](https://arxiv.org/abs/2608.24065)
 - [Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders](https://arxiv.org/abs/2608.23809)
 - [Modality Contribution Score - A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease](https://arxiv.org/abs/2608.24931)
+- [Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation](https://arxiv.org/abs/2608.27429)
+- [Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance](https://arxiv.org/abs/2608.27340)
+- [Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit](https://arxiv.org/abs/2608.27254)
+- [Interpreting Latent Protein Language Model Features with Geometric Annotations](https://arxiv.org/abs/2608.26419)
 
 
 ### Dedicated Publication Threads
