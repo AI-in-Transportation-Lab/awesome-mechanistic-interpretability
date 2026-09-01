@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-August 31, 2026 at 03:02:05 AM UTC
+September 1, 2026 at 03:08:47 AM UTC
 
 
 ## Theorem
 
-## Papers (1147)
+## Papers (1157)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1185,6 +1185,16 @@ August 31, 2026 at 03:02:05 AM UTC
 - [Probing Perceptual Priors of MLLMs via Gibbs Sampling with Interpretable Generative Controls](https://arxiv.org/abs/2608.27727)
 - [How Do Linear Probes Emerge? A Circuit-Tracing Framework with Concept-Targeted Attribution](https://arxiv.org/abs/2608.27510)
 - [Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study](https://arxiv.org/abs/2608.27504)
+- [Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues](https://arxiv.org/abs/2601.12868)
+- [MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines](https://arxiv.org/abs/2608.30662)
+- [The Safety Relay in Roleplay Jailbreaks: A Component-Resolved Causal Analysis of Harm Recognition and Refusal](https://arxiv.org/abs/2608.30585)
+- [Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders](https://arxiv.org/abs/2608.30403)
+- [Interpreting and Steering for Safe and Correct Code Generation](https://arxiv.org/abs/2608.30025)
+- [When Safety Speaks a Language: A Mechanistic Analysis of Safety-Language Identity Entanglement in LLMs](https://arxiv.org/abs/2608.29936)
+- [Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems](https://arxiv.org/abs/2608.29057)
+- [A Unifying Perspective on Language Model Representations: From Filler-Role Structure to Mechanistic Interpretability](https://arxiv.org/abs/2608.29034)
+- [Causal Interventions Reveal Typologically Organized Syntactic Mechanisms in Multilingual Language Models](https://arxiv.org/abs/2608.28924)
+- [SNF-Bench: Separating Static Drift from Natural Flow in Long-Horizon Fixed-Camera Video Generation](https://arxiv.org/abs/2608.28694)
 
 
 ### Dedicated Publication Threads
