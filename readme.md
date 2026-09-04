@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 3, 2026 at 02:34:45 AM UTC
+September 4, 2026 at 02:34:29 AM UTC
 
 
 ## Theorem
 
-## Papers (1162)
+## Papers (1167)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1200,6 +1200,11 @@ September 3, 2026 at 02:34:45 AM UTC
 - [From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling](https://arxiv.org/abs/2609.00051)
 - [Interpretable Symptom Vectors for Depression in a Large Language Model](https://arxiv.org/abs/2609.01832)
 - [A mechanistic modeling framework to interpret ACTH stimulation tests across HPA axis adaptation states and glucocorticoid feedback dynamics](https://arxiv.org/abs/2609.01684)
+- [A Circuit for Plural Reference: How LLMs Represent and Retrieve Singular and Plural Entities](https://arxiv.org/abs/2609.03687)
+- [Lost in Reordering: Structural Sensitivity of Multilingual LLMs under Semantics-Preserving Perturbations](https://arxiv.org/abs/2609.03511)
+- [Large Language Models in Resolving Contextual Knowledge Conflicts](https://arxiv.org/abs/2609.03148)
+- [The Gradient Does Not See Rank: Rank-Indifference in Matrix-CODI on ProsQA](https://arxiv.org/abs/2609.03090)
+- [ObserverBench: Testing Mechanistic Estimates for Intervention and Control](https://arxiv.org/abs/2609.03026)
 
 
 ### Dedicated Publication Threads
