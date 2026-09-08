@@ -32,7 +32,7 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 7, 2026 at 02:26:30 AM UTC
+September 8, 2026 at 02:39:25 AM UTC
 
 
 ## Theorem
