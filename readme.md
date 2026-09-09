@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 8, 2026 at 02:39:25 AM UTC
+September 9, 2026 at 02:39:58 AM UTC
 
 
 ## Theorem
 
-## Papers (1168)
+## Papers (1174)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1206,6 +1206,12 @@ September 8, 2026 at 02:39:25 AM UTC
 - [The Gradient Does Not See Rank: Rank-Indifference in Matrix-CODI on ProsQA](https://arxiv.org/abs/2609.03090)
 - [ObserverBench: Testing Mechanistic Estimates for Intervention and Control](https://arxiv.org/abs/2609.03026)
 - [Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs](https://arxiv.org/abs/2609.04753)
+- [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](https://arxiv.org/abs/2609.07681)
+- [PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](https://arxiv.org/abs/2609.07061)
+- [DrugReason: Dynamic Multi-View Reasoning over Knowledge Graph and Language Evidence for Drug Repurposing](https://arxiv.org/abs/2609.06779)
+- [When Does Activation Steering Change What a Model Computes From?](https://arxiv.org/abs/2606.29522)
+- [Covariance Spectrum in Nonlinear Recurrent Neural Networks: A Near-Critical Effective Connection Strength Throughout Chaos](https://arxiv.org/abs/2508.05288)
+- [Capsule Lens: Locating and Tracking Concept Geometry in Model Representations](https://arxiv.org/abs/2609.05575)
 
 
 ### Dedicated Publication Threads
