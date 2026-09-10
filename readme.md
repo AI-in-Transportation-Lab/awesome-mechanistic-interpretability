@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 9, 2026 at 02:39:58 AM UTC
+September 10, 2026 at 02:41:41 AM UTC
 
 
 ## Theorem
 
-## Papers (1174)
+## Papers (1177)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1212,6 +1212,9 @@ September 9, 2026 at 02:39:58 AM UTC
 - [When Does Activation Steering Change What a Model Computes From?](https://arxiv.org/abs/2606.29522)
 - [Covariance Spectrum in Nonlinear Recurrent Neural Networks: A Near-Critical Effective Connection Strength Throughout Chaos](https://arxiv.org/abs/2508.05288)
 - [Capsule Lens: Locating and Tracking Concept Geometry in Model Representations](https://arxiv.org/abs/2609.05575)
+- [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113)
+- [Noise in Diffusion Models Is a Learnable Input](https://arxiv.org/abs/2608.02575)
+- [Medical AI Encodes a "Feeling of Error": Verifying Cancer Segmentation via Internal Concepts](https://arxiv.org/abs/2609.08879)
 
 
 ### Dedicated Publication Threads
