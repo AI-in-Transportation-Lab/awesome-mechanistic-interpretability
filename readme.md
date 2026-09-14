@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 13, 2026 at 02:44:03 AM UTC
+September 14, 2026 at 02:58:27 AM UTC
 
 
 ## Theorem
 
-## Papers (1180)
+## Papers (1181)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1218,6 +1218,7 @@ September 13, 2026 at 02:44:03 AM UTC
 - [Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation](https://arxiv.org/abs/2609.11147)
 - [Mixing dynamics and transport mechanisms during laminar stirring flows](https://arxiv.org/abs/2609.10773)
 - [Sparse Weight and Edge Circuit Discovery in Transformer-based Acoustic Models](https://arxiv.org/abs/2609.10645)
+- [Operator-matched spatial regression](https://arxiv.org/abs/2609.12094)
 
 
 ### Dedicated Publication Threads
