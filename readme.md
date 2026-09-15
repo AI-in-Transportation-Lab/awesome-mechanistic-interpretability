@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 14, 2026 at 02:58:27 AM UTC
+September 15, 2026 at 03:00:24 AM UTC
 
 
 ## Theorem
 
-## Papers (1181)
+## Papers (1189)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1219,6 +1219,14 @@ September 14, 2026 at 02:58:27 AM UTC
 - [Mixing dynamics and transport mechanisms during laminar stirring flows](https://arxiv.org/abs/2609.10773)
 - [Sparse Weight and Edge Circuit Discovery in Transformer-based Acoustic Models](https://arxiv.org/abs/2609.10645)
 - [Operator-matched spatial regression](https://arxiv.org/abs/2609.12094)
+- [The Misery of Mechanistic Interpretability: A Formal Perspective](https://arxiv.org/abs/2609.15533)
+- [Artificial entrepreneurial cognition: Locating and causally steering an opportunity recognition dial inside large language models (LLMs)](https://arxiv.org/abs/2609.15277)
+- [Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065)
+- [What Does an LLM Learn from Reinforcement Learning? A Mechanistic Interpretability Perspective with Fixed-SAE Track](https://arxiv.org/abs/2609.15064)
+- [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](https://arxiv.org/abs/2609.07061)
+- [Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models](https://arxiv.org/abs/2609.13556)
+- [Harmfulness Propagation Dynamics: Layer-wise Trajectories of Adversarial Intent in Large Language Models](https://arxiv.org/abs/2609.13534)
+- [(How) Do MLLMs Report Bistable Images Like Humans?](https://arxiv.org/abs/2609.13254)
 
 
 ### Dedicated Publication Threads
