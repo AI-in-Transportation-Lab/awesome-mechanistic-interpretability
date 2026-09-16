@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 15, 2026 at 03:00:24 AM UTC
+September 16, 2026 at 02:57:05 AM UTC
 
 
 ## Theorem
 
-## Papers (1189)
+## Papers (1190)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1227,6 +1227,7 @@ September 15, 2026 at 03:00:24 AM UTC
 - [Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models](https://arxiv.org/abs/2609.13556)
 - [Harmfulness Propagation Dynamics: Layer-wise Trajectories of Adversarial Intent in Large Language Models](https://arxiv.org/abs/2609.13534)
 - [(How) Do MLLMs Report Bistable Images Like Humans?](https://arxiv.org/abs/2609.13254)
+- [There Is More to Refusal in Large Language Models than a Single Direction](https://arxiv.org/abs/2602.02132)
 
 
 ### Dedicated Publication Threads
