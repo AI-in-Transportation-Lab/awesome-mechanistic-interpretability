@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "puppeteer": "^24.10.0"
+  },
+  "overrides": {
+    "basic-ftp": "5.3.1"
   }
 }
