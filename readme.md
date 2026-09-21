@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 20, 2026 at 02:57:39 AM UTC
+September 21, 2026 at 02:55:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1194)
+## Papers (1198)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1232,6 +1232,10 @@ September 20, 2026 at 02:57:39 AM UTC
 - [A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning](https://arxiv.org/abs/2609.17804)
 - [Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles](https://arxiv.org/abs/2609.19831)
 - [Enhanced Agriculture-informed Neural Network by Domain Knowledge](https://arxiv.org/abs/2609.19466)
+- [World Modeling in Transformers](https://arxiv.org/abs/2609.21748)
+- [Integral chemical reaction neural networks](https://arxiv.org/abs/2609.21715)
+- [Identifying Neural State Changes due to Gain versus Off-Manifold Displacement](https://arxiv.org/abs/2609.21272)
+- [From In Silico to In Vitro: A Comprehensive Guide to Validating Bioinformatics Findings](https://arxiv.org/abs/2502.03478)
 
 
 ### Dedicated Publication Threads
