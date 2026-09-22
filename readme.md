@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 21, 2026 at 02:55:07 AM UTC
+September 22, 2026 at 02:54:59 AM UTC
 
 
 ## Theorem
 
-## Papers (1198)
+## Papers (1205)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1236,6 +1236,13 @@ September 21, 2026 at 02:55:07 AM UTC
 - [Integral chemical reaction neural networks](https://arxiv.org/abs/2609.21715)
 - [Identifying Neural State Changes due to Gain versus Off-Manifold Displacement](https://arxiv.org/abs/2609.21272)
 - [From In Silico to In Vitro: A Comprehensive Guide to Validating Bioinformatics Findings](https://arxiv.org/abs/2502.03478)
+- [Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders](https://arxiv.org/abs/2609.24440)
+- [Topographic Training Concentrates Causal Circuits Without Improving Neuron Monosemanticity](https://arxiv.org/abs/2609.24379)
+- [Circuit-Diff: Factual Edit-based Intervention Method for Localizing Knowledge in Attribution Graphs](https://arxiv.org/abs/2609.23892)
+- [Quantitative Classical Relaxation Dynamics of Penning-Ionized He/Ne--H_2^+_2^+/HD^+^+ Complexes](https://arxiv.org/abs/2609.23412)
+- [Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](https://arxiv.org/abs/2609.23371)
+- [How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation](https://arxiv.org/abs/2606.28358)
+- [Look Before You Steer: Geometry Predicts SAE Feature Steerability](https://arxiv.org/abs/2609.22782)
 
 
 ### Dedicated Publication Threads
