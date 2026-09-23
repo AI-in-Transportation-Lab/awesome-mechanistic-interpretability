@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 22, 2026 at 02:54:59 AM UTC
+September 23, 2026 at 02:55:26 AM UTC
 
 
 ## Theorem
 
-## Papers (1205)
+## Papers (1210)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1243,6 +1243,11 @@ September 22, 2026 at 02:54:59 AM UTC
 - [Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](https://arxiv.org/abs/2609.23371)
 - [How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation](https://arxiv.org/abs/2606.28358)
 - [Look Before You Steer: Geometry Predicts SAE Feature Steerability](https://arxiv.org/abs/2609.22782)
+- [In Vivo Length Distributions as Mechanistic Fingerprints of Pathological Protein Aggregation](https://arxiv.org/abs/2609.25998)
+- [Quantitative Evidence Mining for Plausibility-Aware Biomedical AI: A Narrative Review and Conceptual Framework](https://arxiv.org/abs/2608.30393)
+- [Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs](https://arxiv.org/abs/2609.25602)
+- [Learning continuous reaction paths for transition-state prediction](https://arxiv.org/abs/2609.25523)
+- [Matryoshka attribution: Learning to attribute language model outputs to representations and weights](https://arxiv.org/abs/2609.25518)
 
 
 ### Dedicated Publication Threads
