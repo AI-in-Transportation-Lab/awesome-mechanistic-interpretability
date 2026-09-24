@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 23, 2026 at 02:55:26 AM UTC
+September 24, 2026 at 02:46:08 AM UTC
 
 
 ## Theorem
 
-## Papers (1210)
+## Papers (1211)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1248,6 +1248,7 @@ September 23, 2026 at 02:55:26 AM UTC
 - [Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs](https://arxiv.org/abs/2609.25602)
 - [Learning continuous reaction paths for transition-state prediction](https://arxiv.org/abs/2609.25523)
 - [Matryoshka attribution: Learning to attribute language model outputs to representations and weights](https://arxiv.org/abs/2609.25518)
+- [EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues](https://arxiv.org/abs/2609.27043)
 
 
 ### Dedicated Publication Threads
