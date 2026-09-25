@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 24, 2026 at 02:46:08 AM UTC
+September 25, 2026 at 03:02:13 AM UTC
 
 
 ## Theorem
 
-## Papers (1211)
+## Papers (1214)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1249,6 +1249,9 @@ September 24, 2026 at 02:46:08 AM UTC
 - [Learning continuous reaction paths for transition-state prediction](https://arxiv.org/abs/2609.25523)
 - [Matryoshka attribution: Learning to attribute language model outputs to representations and weights](https://arxiv.org/abs/2609.25518)
 - [EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues](https://arxiv.org/abs/2609.27043)
+- [Ultrafast Electron Microscopy: A Quantitative Platform for Nonequilibrium Materials Research](https://arxiv.org/abs/2609.30084)
+- [Hallucination Neurons and Where to Find Them: An Investigation into the existence of Hallucination Neurons](https://arxiv.org/abs/2609.29781)
+- [Stream Recursion Model (SRM)](https://arxiv.org/abs/2609.28809)
 
 
 ### Dedicated Publication Threads
