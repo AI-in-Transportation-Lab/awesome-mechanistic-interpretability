@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 27, 2026 at 03:12:46 AM UTC
+September 28, 2026 at 03:09:06 AM UTC
 
 
 ## Theorem
 
-## Papers (1214)
+## Papers (1217)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1252,6 +1252,9 @@ September 27, 2026 at 03:12:46 AM UTC
 - [Ultrafast Electron Microscopy: A Quantitative Platform for Nonequilibrium Materials Research](https://arxiv.org/abs/2609.30084)
 - [Hallucination Neurons and Where to Find Them: An Investigation into the existence of Hallucination Neurons](https://arxiv.org/abs/2609.29781)
 - [Stream Recursion Model (SRM)](https://arxiv.org/abs/2609.28809)
+- [Neuralyzing the Trace: Selective Representation-Level Unlearning with Contrastive Sparse Autoencoders](https://arxiv.org/abs/2609.31056)
+- [FLIP: Final Layer Inference-Time Probing for Vision-Language Models](https://arxiv.org/abs/2609.30993)
+- [LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents](https://arxiv.org/abs/2609.30662)
 
 
 ### Dedicated Publication Threads
