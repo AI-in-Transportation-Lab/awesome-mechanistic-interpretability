@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 28, 2026 at 03:09:06 AM UTC
+September 29, 2026 at 03:47:37 AM UTC
 
 
 ## Theorem
 
-## Papers (1217)
+## Papers (1229)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1255,6 +1255,18 @@ September 28, 2026 at 03:09:06 AM UTC
 - [Neuralyzing the Trace: Selective Representation-Level Unlearning with Contrastive Sparse Autoencoders](https://arxiv.org/abs/2609.31056)
 - [FLIP: Final Layer Inference-Time Probing for Vision-Language Models](https://arxiv.org/abs/2609.30993)
 - [LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents](https://arxiv.org/abs/2609.30662)
+- [DoAtlas-2: A Foundation for Self-Evolving Causal Biomedical Discovery](https://arxiv.org/abs/2609.35107)
+- [Verifying the Linear Representation Hypothesis: How Interpretable Are Vision SAEs?](https://arxiv.org/abs/2609.35020)
+- [On Temporal Binding in Large Audio Language Models](https://arxiv.org/abs/2609.34806)
+- [MechReasoner: A Simulator and Benchmark for Mechanistic Reasoning in Qualitative Physics](https://arxiv.org/abs/2609.34636)
+- [Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models](https://arxiv.org/abs/2608.09696)
+- [A mechanistic interpretation of mutation risk across biological scales](https://arxiv.org/abs/2609.33307)
+- [EngIntervene: Benchmarking Multimodal Engineering State Understanding and Design Intervention Reasoning](https://arxiv.org/abs/2609.33261)
+- [The Geometry of Logic: Stratification Induces Semantic Structure and Robust Reasoning](https://arxiv.org/abs/2609.32927)
+- [Right Answer, Wrong Reason: Accuracy, Consistency, and Consensus Are Misleading Indicators of LLM Faithfulness in Clinical Decision Support](https://arxiv.org/abs/2609.32817)
+- [What Would Falsify It? A Variable Specific Evidence Standard for Mechanistic Claims About Self Explanation](https://arxiv.org/abs/2609.32670)
+- [Mechanistic Personality Analysis of LLMs: Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770)
+- [Mechanistic Interpretability Reveals Shared Causal Subspaces in Brain-to-Speech Decoders](https://arxiv.org/abs/2609.31992)
 
 
 ### Dedicated Publication Threads
