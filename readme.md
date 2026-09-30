@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 29, 2026 at 03:47:37 AM UTC
+September 30, 2026 at 03:36:11 AM UTC
 
 
 ## Theorem
 
-## Papers (1229)
+## Papers (1241)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1267,6 +1267,18 @@ September 29, 2026 at 03:47:37 AM UTC
 - [What Would Falsify It? A Variable Specific Evidence Standard for Mechanistic Claims About Self Explanation](https://arxiv.org/abs/2609.32670)
 - [Mechanistic Personality Analysis of LLMs: Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770)
 - [Mechanistic Interpretability Reveals Shared Causal Subspaces in Brain-to-Speech Decoders](https://arxiv.org/abs/2609.31992)
+- [Signatures of semantic search in the activations of large language models](https://arxiv.org/abs/2609.35599)
+- [When Models Don't Manipulate Manifolds: The Geometry of a Comparison Task](https://arxiv.org/abs/2609.37680)
+- [Scalable Diffusion SBI for Compositional Inference under Simulator Misspecification](https://arxiv.org/abs/2609.36950)
+- [RESCUE: Repairing Language Model Errors to Sparse Circuits via Reinforcement Learning](https://arxiv.org/abs/2609.36813)
+- [NeuroDyn-EEG: An Interpretable Pre-trained Model for EEG Based on Neural Dynamics](https://arxiv.org/abs/2609.36773)
+- [How Medical VLMs Underutilize Their Vision Encoders: A Dermatology Perspective](https://arxiv.org/abs/2609.36557)
+- [In-Context Learning Amplifies a Latent Symbolic Circuit](https://arxiv.org/abs/2609.36265)
+- [Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?](https://arxiv.org/abs/2609.35686)
+- [Less Sycophancy, Stronger Refusal? Lessons for AI Safety from Mechanistic Interpretability](https://arxiv.org/abs/2609.35544)
+- [MechBench: Can AI Scientific Agents Discover Mechanisms Beyond Phenomenal Laws?](https://arxiv.org/abs/2609.35515)
+- [From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367)
+- [Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders](https://arxiv.org/abs/2609.35210)
 
 
 ### Dedicated Publication Threads
