@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-September 30, 2026 at 03:36:11 AM UTC
+October 1, 2026 at 03:41:13 AM UTC
 
 
 ## Theorem
 
-## Papers (1241)
+## Papers (1242)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1279,6 +1279,7 @@ September 30, 2026 at 03:36:11 AM UTC
 - [MechBench: Can AI Scientific Agents Discover Mechanisms Beyond Phenomenal Laws?](https://arxiv.org/abs/2609.35515)
 - [From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367)
 - [Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders](https://arxiv.org/abs/2609.35210)
+- [Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge](https://arxiv.org/abs/2609.38495)
 
 
 ### Dedicated Publication Threads
