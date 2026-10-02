@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 1, 2026 at 03:41:13 AM UTC
+October 2, 2026 at 03:40:33 AM UTC
 
 
 ## Theorem
 
-## Papers (1242)
+## Papers (1246)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1280,6 +1280,10 @@ October 1, 2026 at 03:41:13 AM UTC
 - [From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367)
 - [Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders](https://arxiv.org/abs/2609.35210)
 - [Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge](https://arxiv.org/abs/2609.38495)
+- [Are We Recovering Mechanisms? Objective-Level Recovery Gaps in Mechanistic Interpretability](https://arxiv.org/abs/2610.02098)
+- [Symmetry considerations in chirality-induced spin selectivity](https://arxiv.org/abs/2610.01880)
+- [Beyond Linear Concepts: Discovering and Aligning Non-Linear Concept Manifolds in Large Language Models](https://arxiv.org/abs/2610.01821)
+- [Validation of a Computational Respiratory System Model for Mechanical Ventilation](https://arxiv.org/abs/2607.06210)
 
 
 ### Dedicated Publication Threads
