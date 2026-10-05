@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 4, 2026 at 03:52:23 AM UTC
+October 5, 2026 at 03:38:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1246)
+## Papers (1253)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1284,6 +1284,13 @@ October 4, 2026 at 03:52:23 AM UTC
 - [Symmetry considerations in chirality-induced spin selectivity](https://arxiv.org/abs/2610.01880)
 - [Beyond Linear Concepts: Discovering and Aligning Non-Linear Concept Manifolds in Large Language Models](https://arxiv.org/abs/2610.01821)
 - [Validation of a Computational Respiratory System Model for Mechanical Ventilation](https://arxiv.org/abs/2607.06210)
+- [Certified Mechanistic Edits: Behavioral Guarantees for Skill Removal and Preservation](https://arxiv.org/abs/2610.03502)
+- [From Patching to Pruning Visual Computation in Vision Language Models](https://arxiv.org/abs/2610.03389)
+- [Architecture-Dependent Fusion Pathways in MLLMs](https://arxiv.org/abs/2610.03289)
+- [The Effective Depth Paradox: Topology and Trainability in Deep CNNs](https://arxiv.org/abs/2602.13298)
+- [Learning Transferable Policies from Action-free Time Series Through Dynamical Embeddings](https://arxiv.org/abs/2610.03065)
+- [Clinical Concept Centers in LLMs](https://arxiv.org/abs/2610.02829)
+- [A Generative Model of Complex Networks Using Graphons and Neural Inverse Operators](https://arxiv.org/abs/2610.02439)
 
 
 ### Dedicated Publication Threads
