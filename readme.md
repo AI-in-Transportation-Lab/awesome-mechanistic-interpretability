@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 5, 2026 at 03:38:07 AM UTC
+October 6, 2026 at 04:26:10 AM UTC
 
 
 ## Theorem
 
-## Papers (1253)
+## Papers (1260)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1291,6 +1291,13 @@ October 5, 2026 at 03:38:07 AM UTC
 - [Learning Transferable Policies from Action-free Time Series Through Dynamical Embeddings](https://arxiv.org/abs/2610.03065)
 - [Clinical Concept Centers in LLMs](https://arxiv.org/abs/2610.02829)
 - [A Generative Model of Complex Networks Using Graphons and Neural Inverse Operators](https://arxiv.org/abs/2610.02439)
+- [Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://arxiv.org/abs/2606.22673)
+- [Deconvoluting Mechanisms of Radiation-Induced Grain Boundary Segregation in Dilute Ni-X (X = Fe, Cr, Mn) Alloys via Ion Irradiation and Phase-field Modeling](https://arxiv.org/abs/2610.05849)
+- [Don't Judge an LLM Only by Its Activations: Discovering Suppressed Safety Features via Counterfactual Activation Potential](https://arxiv.org/abs/2610.05541)
+- [ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](https://arxiv.org/abs/2610.04905)
+- [Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input-Output Matching](https://arxiv.org/abs/2610.04470)
+- [Copying Before Suppression: What Drives a Below-Chance Dip During Language Model Training?](https://arxiv.org/abs/2610.04119)
+- [Slaying the Hydra: Interaction-Aware Circuit Discovery in Language Models](https://arxiv.org/abs/2610.04017)
 
 
 ### Dedicated Publication Threads
