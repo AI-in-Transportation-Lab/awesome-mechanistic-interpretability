@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 6, 2026 at 04:26:10 AM UTC
+October 7, 2026 at 03:51:22 AM UTC
 
 
 ## Theorem
 
-## Papers (1260)
+## Papers (1263)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1298,6 +1298,9 @@ October 6, 2026 at 04:26:10 AM UTC
 - [Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input-Output Matching](https://arxiv.org/abs/2610.04470)
 - [Copying Before Suppression: What Drives a Below-Chance Dip During Language Model Training?](https://arxiv.org/abs/2610.04119)
 - [Slaying the Hydra: Interaction-Aware Circuit Discovery in Language Models](https://arxiv.org/abs/2610.04017)
+- [Too Categorical to be Human: Emotion Concepts in LLMs and Humans](https://arxiv.org/abs/2508.05880)
+- [Mechanistic Interpretability of Atmospheric Rivers in GraphCast](https://arxiv.org/abs/2610.07583)
+- [Beyond the Linear Representation Hypothesis: Non-Linear Activation Steering in Text-to-Image Models](https://arxiv.org/abs/2610.06945)
 
 
 ### Dedicated Publication Threads
