@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 7, 2026 at 03:51:22 AM UTC
+October 8, 2026 at 04:04:56 AM UTC
 
 
 ## Theorem
 
-## Papers (1263)
+## Papers (1268)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1301,6 +1301,11 @@ October 7, 2026 at 03:51:22 AM UTC
 - [Too Categorical to be Human: Emotion Concepts in LLMs and Humans](https://arxiv.org/abs/2508.05880)
 - [Mechanistic Interpretability of Atmospheric Rivers in GraphCast](https://arxiv.org/abs/2610.07583)
 - [Beyond the Linear Representation Hypothesis: Non-Linear Activation Steering in Text-to-Image Models](https://arxiv.org/abs/2610.06945)
+- [Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding](https://arxiv.org/abs/2610.10178)
+- [Identifiability of a dissipative knowledge-dynamics model: exact recovery under designed excitation, degeneration on observational data](https://arxiv.org/abs/2610.09889)
+- [Connectome-Based Modeling of Mutation-Specific Amyloid-ββ Aggregation in Familial Alzheimer's Disease](https://arxiv.org/abs/2610.09583)
+- [Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models](https://arxiv.org/abs/2610.09496)
+- [U-Space: Uncovering When and Why Uncertainty Arises in Language Models](https://arxiv.org/abs/2610.09087)
 
 
 ### Dedicated Publication Threads
