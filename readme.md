@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 11, 2026 at 03:29:40 AM UTC
+October 12, 2026 at 03:53:47 AM UTC
 
 
 ## Theorem
 
-## Papers (1271)
+## Papers (1273)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1309,6 +1309,8 @@ October 11, 2026 at 03:29:40 AM UTC
 - [FearCaut-Qwen: Affective Steering in a Vision-Language Model Shifts the Decision Criterion for Hazard Assessment](https://arxiv.org/abs/2610.11986)
 - [Social Pain Disrupts Emotion-Action Brain-State Dynamics in Adolescents with Non-Suicidal Self-Injury](https://arxiv.org/abs/2610.11155)
 - [Strategic Governance of AI Models in Earth Science](https://arxiv.org/abs/2610.10560)
+- [Decoding Alignment without Encoding Alignment: A critique of similarity analysis in neuroscience](https://arxiv.org/abs/2605.05907)
+- [Neural networks are more modular than single neurons suggest](https://arxiv.org/abs/2610.12842)
 
 
 ### Dedicated Publication Threads
