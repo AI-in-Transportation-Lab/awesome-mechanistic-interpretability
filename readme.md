@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 14, 2026 at 03:10:53 AM UTC
+October 15, 2026 at 02:49:54 AM UTC
 
 
 ## Theorem
 
-## Papers (1274)
+## Papers (1279)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1312,6 +1312,11 @@ October 14, 2026 at 03:10:53 AM UTC
 - [Decoding Alignment without Encoding Alignment: A critique of similarity analysis in neuroscience](https://arxiv.org/abs/2605.05907)
 - [Neural networks are more modular than single neurons suggest](https://arxiv.org/abs/2610.12842)
 - [Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models](https://arxiv.org/abs/2603.19233)
+- [Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility](https://arxiv.org/abs/2610.20139)
+- [Sparse Transformer: a Controlled Testbed for Mechanistic Interpretability](https://arxiv.org/abs/2610.19907)
+- [A dynamic mathematical model for sub-lethal damage recovery: Integrating recovery processes into multi-target theory to visualize damage states](https://arxiv.org/abs/2610.19473)
+- [Monitoring latent reasoning in looped language models](https://arxiv.org/abs/2610.18127)
+- [Understanding Helpfulness and Harmless Tension in Reward Models](https://arxiv.org/abs/2606.13209)
 
 
 ### Dedicated Publication Threads
