@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 15, 2026 at 02:49:54 AM UTC
+October 16, 2026 at 02:46:48 AM UTC
 
 
 ## Theorem
 
-## Papers (1279)
+## Papers (1286)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1317,6 +1317,13 @@ October 15, 2026 at 02:49:54 AM UTC
 - [A dynamic mathematical model for sub-lethal damage recovery: Integrating recovery processes into multi-target theory to visualize damage states](https://arxiv.org/abs/2610.19473)
 - [Monitoring latent reasoning in looped language models](https://arxiv.org/abs/2610.18127)
 - [Understanding Helpfulness and Harmless Tension in Reward Models](https://arxiv.org/abs/2606.13209)
+- [Spurious Attention Heads in Vision Transformers: Mechanistic Identification of Annotation-Driven Bias in Medical Chest X-Ray Analysis](https://arxiv.org/abs/2610.21638)
+- [Translation Circuit Discovery and Targeted Optimization for Low-Resource Multilingual Translation](https://arxiv.org/abs/2610.21456)
+- [Learning and Forecasting Multiscale Spatiotemporal Epidemic Dynamics with Lagrangian-Eulerian Graph Neural ODEs](https://arxiv.org/abs/2610.21223)
+- [Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness](https://arxiv.org/abs/2610.20854)
+- [Complete or Sparse: A Tale of Two Identifiabilities](https://arxiv.org/abs/2610.20851)
+- [Interpreting Language Model Parameters](https://arxiv.org/abs/2610.20748)
+- [Surfacing Neural Activations Over Multi-Turn Conversation Improves User Calibration to LLM Behavioral Drift](https://arxiv.org/abs/2605.15455)
 
 
 ### Dedicated Publication Threads
