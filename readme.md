@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 19, 2026 at 02:53:12 AM UTC
+October 20, 2026 at 03:03:04 AM UTC
 
 
 ## Theorem
 
-## Papers (1289)
+## Papers (1296)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1327,6 +1327,13 @@ October 19, 2026 at 02:53:12 AM UTC
 - [Verbalising Model's Computation for Chain-of-Thought Faithfulness Detection](https://arxiv.org/abs/2610.23275)
 - [EEG Lempel-Ziv Complexity vis-à-vis Autocorrelation Function](https://arxiv.org/abs/2610.23231)
 - [Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness](https://arxiv.org/abs/2610.22636)
+- [Formally Verified Autoresearch for Analyzing the Expressivity of Multi-Head Attention](https://arxiv.org/abs/2610.25341)
+- [Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning](https://arxiv.org/abs/2606.15507)
+- [Strategic Origins of Network Structure](https://arxiv.org/abs/2610.24792)
+- [Transient growth and Counter-propagating Rossby Waves in a sloped Eady problem](https://arxiv.org/abs/2610.24689)
+- [Comparing Sparsified MLPs and Transcoders: Many Transcoder Features Are Neurons in Disguise](https://arxiv.org/abs/2610.24521)
+- [Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?](https://arxiv.org/abs/2610.24029)
+- [scCTM: Continuous Thought Machine Reconstruction of Glioma Cell Fate Dynamics Attractor Landscapes and Algorithmic Perturbation Signatures](https://arxiv.org/abs/2610.23927)
 
 
 ### Dedicated Publication Threads
