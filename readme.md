@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 20, 2026 at 03:03:04 AM UTC
+October 21, 2026 at 02:57:48 AM UTC
 
 
 ## Theorem
 
-## Papers (1296)
+## Papers (1301)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1334,6 +1334,11 @@ October 20, 2026 at 03:03:04 AM UTC
 - [Comparing Sparsified MLPs and Transcoders: Many Transcoder Features Are Neurons in Disguise](https://arxiv.org/abs/2610.24521)
 - [Do Knowledge and Reasoning Oriented Benchmarks Induce Stable Representation Signatures in LLMs?](https://arxiv.org/abs/2610.24029)
 - [scCTM: Continuous Thought Machine Reconstruction of Glioma Cell Fate Dynamics Attractor Landscapes and Algorithmic Perturbation Signatures](https://arxiv.org/abs/2610.23927)
+- [Benchmarking Arabic Dialects for Math Problems](https://arxiv.org/abs/2610.28607)
+- [Are Linguistic and Arithmetic Circuits Dissociated in LLMs?](https://arxiv.org/abs/2610.27790)
+- [Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal](https://arxiv.org/abs/2605.26772)
+- [Correcting Attribution Patching with a Few Exact Measurements](https://arxiv.org/abs/2610.27393)
+- [Shaped SAEs: Expanding the Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2610.27375)
 
 
 ### Dedicated Publication Threads
