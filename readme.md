@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 21, 2026 at 02:57:48 AM UTC
+October 22, 2026 at 03:01:17 AM UTC
 
 
 ## Theorem
 
-## Papers (1301)
+## Papers (1305)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1339,6 +1339,10 @@ October 21, 2026 at 02:57:48 AM UTC
 - [Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal](https://arxiv.org/abs/2605.26772)
 - [Correcting Attribution Patching with a Few Exact Measurements](https://arxiv.org/abs/2610.27393)
 - [Shaped SAEs: Expanding the Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2610.27375)
+- [Spin-Adapted Spin-Flip Tamm-Dancoff Approximation (XSF-TDA) for Singlet-Triplet Gaps in MR-TADF and INVEST Emitters](https://arxiv.org/abs/2610.29460)
+- [Learning Epidemic Threshold Equations from Simulation: REEBLRA, an Interpretable Bayesian Classification Framework for Reproduction Numbers](https://arxiv.org/abs/2610.29399)
+- [Population Neuroscience 3.0: Bridging large-N and small-N paradigms in brain-wide association studies](https://arxiv.org/abs/2212.04195)
+- [Language Impairment as a Lens onto Large Language Models](https://arxiv.org/abs/2610.28992)
 
 
 ### Dedicated Publication Threads
