@@ -1354,6 +1354,8 @@ October 23, 2026 at 02:59:50 AM UTC
 
 ## Library
 
+- [Circuit Lantern](https://github.com/IlyaKhalafi/CircuitLantern) - A local web app for transformer activation tracing, residual patching, attention head ablation, and sparse autoencoder experiments.
+
 ## Tutorial
 
 ### Written Tutorials
