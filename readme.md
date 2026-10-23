@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 22, 2026 at 03:01:17 AM UTC
+October 23, 2026 at 02:59:50 AM UTC
 
 
 ## Theorem
 
-## Papers (1305)
+## Papers (1308)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1343,6 +1343,9 @@ October 22, 2026 at 03:01:17 AM UTC
 - [Learning Epidemic Threshold Equations from Simulation: REEBLRA, an Interpretable Bayesian Classification Framework for Reproduction Numbers](https://arxiv.org/abs/2610.29399)
 - [Population Neuroscience 3.0: Bridging large-N and small-N paradigms in brain-wide association studies](https://arxiv.org/abs/2212.04195)
 - [Language Impairment as a Lens onto Large Language Models](https://arxiv.org/abs/2610.28992)
+- [The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models](https://arxiv.org/abs/2610.31520)
+- [When Language Models Misinterpret Uncertainty in Earth System Mechanism Attribution](https://arxiv.org/abs/2610.30501)
+- [Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale](https://arxiv.org/abs/2610.30364)
 
 
 ### Dedicated Publication Threads
