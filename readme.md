@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 25, 2026 at 02:49:32 AM UTC
+October 26, 2026 at 02:47:51 AM UTC
 
 
 ## Theorem
 
-## Papers (1308)
+## Papers (1310)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1346,6 +1346,8 @@ October 25, 2026 at 02:49:32 AM UTC
 - [The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models](https://arxiv.org/abs/2610.31520)
 - [When Language Models Misinterpret Uncertainty in Earth System Mechanism Attribution](https://arxiv.org/abs/2610.30501)
 - [Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale](https://arxiv.org/abs/2610.30364)
+- [Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography](https://arxiv.org/abs/2605.10871)
+- [A Mathematical Theory of the Jacobian Lens](https://arxiv.org/abs/2610.31955)
 
 
 ### Dedicated Publication Threads
