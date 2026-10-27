@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 26, 2026 at 02:47:51 AM UTC
+October 27, 2026 at 03:21:20 AM UTC
 
 
 ## Theorem
 
-## Papers (1310)
+## Papers (1317)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1348,6 +1348,13 @@ October 26, 2026 at 02:47:51 AM UTC
 - [Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale](https://arxiv.org/abs/2610.30364)
 - [Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography](https://arxiv.org/abs/2605.10871)
 - [A Mathematical Theory of the Jacobian Lens](https://arxiv.org/abs/2610.31955)
+- [SATFormer: Learning When to Use Early Value Residuals in Transformers](https://arxiv.org/abs/2605.03953)
+- [Markovian Circuit Tracing: Ground-Truth Tests of Transformer State Abstractions](https://arxiv.org/abs/2605.20824)
+- [Toward Fast Human Reaction Modeling from High-Frequency Digital Interaction Data](https://arxiv.org/abs/2610.35079)
+- [Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching](https://arxiv.org/abs/2610.34756)
+- [New developments in the geometry and topology of 3D head-direction coding](https://arxiv.org/abs/2610.34106)
+- [Mechanistic bridges from receptors to whole-brain dynamics: promise and limits of master-equation mean-field models](https://arxiv.org/abs/2608.00306)
+- [Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning](https://arxiv.org/abs/2610.33180)
 
 
 ### Dedicated Publication Threads
