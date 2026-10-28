@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 27, 2026 at 03:21:20 AM UTC
+October 28, 2026 at 03:38:34 AM UTC
 
 
 ## Theorem
 
-## Papers (1317)
+## Papers (1321)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1355,6 +1355,10 @@ October 27, 2026 at 03:21:20 AM UTC
 - [New developments in the geometry and topology of 3D head-direction coding](https://arxiv.org/abs/2610.34106)
 - [Mechanistic bridges from receptors to whole-brain dynamics: promise and limits of master-equation mean-field models](https://arxiv.org/abs/2608.00306)
 - [Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning](https://arxiv.org/abs/2610.33180)
+- [What Survives Distillation? A Mechanistic Interpretability Study of GPT-2 and DistilGPT-2](https://arxiv.org/abs/2610.37157)
+- [SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO_2_2 Biomass Extraction and Fractionation](https://arxiv.org/abs/2610.37123)
+- [The geometry of cognition: from neural populations to neurotechnology](https://arxiv.org/abs/2610.36541)
+- [A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels](https://arxiv.org/abs/2502.17061)
 
 
 ### Dedicated Publication Threads
