@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-October 29, 2026 at 03:58:41 AM UTC
+October 30, 2026 at 03:59:39 AM UTC
 
 
 ## Theorem
 
-## Papers (1321)
+## Papers (1326)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1359,6 +1359,11 @@ October 29, 2026 at 03:58:41 AM UTC
 - [SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO_2_2 Biomass Extraction and Fractionation](https://arxiv.org/abs/2610.37123)
 - [The geometry of cognition: from neural populations to neurotechnology](https://arxiv.org/abs/2610.36541)
 - [A Mechanistic Interpretation of Prescribed-Parameter Convolutional Kernels](https://arxiv.org/abs/2502.17061)
+- [Reasoning or Pattern Exploitation? Mechanistic Insights from RL-Trained Language Models](https://arxiv.org/abs/2610.39182)
+- [Can LLMs Faithfully Solve Ontology Engineering Tasks? A Mechanistic Interpretability Study](https://arxiv.org/abs/2610.38326)
+- [Generative discovery of chemical reaction networks](https://arxiv.org/abs/2610.38236)
+- [Commutative Algebra Modeling of Mutation and Disease Association](https://arxiv.org/abs/2509.26566)
+- [Interpretable neural equation learning for high-dimensional materials data](https://arxiv.org/abs/2610.37880)
 
 
 ### Dedicated Publication Threads
