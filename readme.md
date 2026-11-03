@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 2, 2026 at 03:56:49 AM UTC
+November 3, 2026 at 04:58:23 AM UTC
 
 
 ## Theorem
 
-## Papers (1330)
+## Papers (1339)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1368,6 +1368,15 @@ November 2, 2026 at 03:56:49 AM UTC
 - [Activation Probes Are Reliable With a Handful of Positive Examples](https://arxiv.org/abs/2610.39766)
 - [When Everyone Can Build a Model: Mechanistic Inference in the Age of AI](https://arxiv.org/abs/2610.41454)
 - [Mechanistic Interpretability for End-to-End Self-Driving](https://arxiv.org/abs/2610.41185)
+- [Atomistic Insights into MOCVD Growth of GaAs using a Closed Loop Autonomous System Combining Directed Reinforcement Learning and Kinetic Monte Carlo Simulations](https://arxiv.org/abs/2611.01646)
+- [Label-Free Localization and Test-Time Suppression of CLIP's Typographic Circuits](https://arxiv.org/abs/2611.01513)
+- [E-UDE: A Scientific Machine Learning Model for Malware Propagation Dynamics](https://arxiv.org/abs/2611.00971)
+- [The Tangled Web They Weave: Exploring Neural Representations with Directed Simplicial Complexes](https://arxiv.org/abs/2611.00786)
+- [Bridging Singular Learning Theory and Mechanistic Interpretability at the Billion-Parameter Scale](https://arxiv.org/abs/2611.00640)
+- [Evidence-grounded large language models guide perovskite solar cell design and optimization](https://arxiv.org/abs/2611.00633)
+- [Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries](https://arxiv.org/abs/2611.00420)
+- [A Framework for Task-Agnostic Counterfactual Fairness in Transformers through Activation Steering](https://arxiv.org/abs/2611.00298)
+- [From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models](https://arxiv.org/abs/2611.00155)
 
 
 ### Dedicated Publication Threads
