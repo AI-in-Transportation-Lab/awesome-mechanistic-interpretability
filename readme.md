@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 5, 2026 at 04:45:45 AM UTC
+November 6, 2026 at 04:44:36 AM UTC
 
 
 ## Theorem
 
-## Papers (1342)
+## Papers (1347)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1380,6 +1380,11 @@ November 5, 2026 at 04:45:45 AM UTC
 - [Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference](https://arxiv.org/abs/2611.05003)
 - [Towards Multi-Value Alignment via Value Localization in LLMs](https://arxiv.org/abs/2611.02503)
 - [From Outcome to Representation: Tracing Reasoning Mechanisms through Integrated Policy Gradient](https://arxiv.org/abs/2602.02313)
+- [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438)
+- [Teach the Way It Thinks: Guiding LLM Post-training Data Engineering with Sparse Autoencoders](https://arxiv.org/abs/2605.27354)
+- [Encoding and Propagation of Grammatical Number in Large Language Models](https://arxiv.org/abs/2611.07283)
+- [Shaping & Monitoring Models through their Internal Representations](https://arxiv.org/abs/2611.07071)
+- [From Maps to Metabolism: Historical Precedents and a Unified Critique of Computationalism](https://arxiv.org/abs/2611.06936)
 
 
 ### Dedicated Publication Threads
