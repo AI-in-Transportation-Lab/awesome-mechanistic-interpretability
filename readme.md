@@ -37,7 +37,7 @@ November 6, 2026 at 04:44:36 AM UTC
 
 ## Theorem
 
-## Papers (1347)
+## Papers (1348)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1385,6 +1385,7 @@ November 6, 2026 at 04:44:36 AM UTC
 - [Encoding and Propagation of Grammatical Number in Large Language Models](https://arxiv.org/abs/2611.07283)
 - [Shaping & Monitoring Models through their Internal Representations](https://arxiv.org/abs/2611.07071)
 - [From Maps to Metabolism: Historical Precedents and a Unified Critique of Computationalism](https://arxiv.org/abs/2611.06936)
+- [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454)
 
 
 ### Dedicated Publication Threads
