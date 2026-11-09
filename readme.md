@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 8, 2026 at 03:56:36 AM UTC
+November 9, 2026 at 04:10:59 AM UTC
 
 
 ## Theorem
 
-## Papers (1347)
+## Papers (1351)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1385,6 +1385,10 @@ November 8, 2026 at 03:56:36 AM UTC
 - [Encoding and Propagation of Grammatical Number in Large Language Models](https://arxiv.org/abs/2611.07283)
 - [Shaping & Monitoring Models through their Internal Representations](https://arxiv.org/abs/2611.07071)
 - [From Maps to Metabolism: Historical Precedents and a Unified Critique of Computationalism](https://arxiv.org/abs/2611.06936)
+- [Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective](https://arxiv.org/abs/2611.09235)
+- [Cross-Layer TopK: Dynamically Allocating Sparsity Across Layers in Transcoders](https://arxiv.org/abs/2611.09233)
+- [Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data](https://arxiv.org/abs/2611.08922)
+- [PRISM: Stress-Testing Alignment-Faking Claims](https://arxiv.org/abs/2607.13346)
 
 
 ### Dedicated Publication Threads
