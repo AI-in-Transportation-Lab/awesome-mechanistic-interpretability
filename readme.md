@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 9, 2026 at 04:10:59 AM UTC
+November 10, 2026 at 05:40:22 AM UTC
 
 
 ## Theorem
 
-## Papers (1351)
+## Papers (1359)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1389,6 +1389,14 @@ November 9, 2026 at 04:10:59 AM UTC
 - [Cross-Layer TopK: Dynamically Allocating Sparsity Across Layers in Transcoders](https://arxiv.org/abs/2611.09233)
 - [Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data](https://arxiv.org/abs/2611.08922)
 - [PRISM: Stress-Testing Alignment-Faking Claims](https://arxiv.org/abs/2607.13346)
+- [SWEET: Mitigating Spurious Feature Reliance in LLM Reasoning via Weight Editing](https://arxiv.org/abs/2611.10974)
+- [Can small transformers learn the language of Coxeter groups?](https://arxiv.org/abs/2611.10936)
+- [ConwayNet: Interpretability, Activation Coherence, and Noise Resilience via a Game-of-Life-Inspired Lateral Inhibition in Artificial Neural Networks](https://arxiv.org/abs/2611.10760)
+- [Represented but Not Used: Value-Policy Dissociation in LLM Agents](https://arxiv.org/abs/2611.10457)
+- [Detecting and Explaining Robot Policy Failures from Sparse Internal Features](https://arxiv.org/abs/2611.10400)
+- [Mechanical modulation of the Gutenberg-Richter b-value in hierarchical fault networks](https://arxiv.org/abs/2611.02541)
+- [Latent Reasoning Does Not Lack Signal, It Lacks Invariance: Subspace-Constrained Refinement for Robust Reasoning](https://arxiv.org/abs/2606.29164)
+- [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045)
 
 
 ### Dedicated Publication Threads
