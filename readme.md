@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 10, 2026 at 05:40:22 AM UTC
+November 11, 2026 at 04:15:36 AM UTC
 
 
 ## Theorem
 
-## Papers (1359)
+## Papers (1364)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1397,6 +1397,11 @@ November 10, 2026 at 05:40:22 AM UTC
 - [Mechanical modulation of the Gutenberg-Richter b-value in hierarchical fault networks](https://arxiv.org/abs/2611.02541)
 - [Latent Reasoning Does Not Lack Signal, It Lacks Invariance: Subspace-Constrained Refinement for Robust Reasoning](https://arxiv.org/abs/2606.29164)
 - [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045)
+- [Mechanistic Interpretability Needs a Logic of Inference](https://arxiv.org/abs/2611.14483)
+- [Mechanistic Interpretability of Deep Neural Networks: Methods, Frameworks, and Perspectives](https://arxiv.org/abs/2611.13868)
+- [Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks](https://arxiv.org/abs/2611.12627)
+- [A Geometric Invariant of Attention Predicts Head Specialization from Weights Alone](https://arxiv.org/abs/2611.12206)
+- [OrigaMI: An LLM Serving System with First-Class Interpretability Apps](https://arxiv.org/abs/2607.22595)
 
 
 ### Dedicated Publication Threads
