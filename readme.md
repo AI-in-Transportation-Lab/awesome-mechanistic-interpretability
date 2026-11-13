@@ -70,6 +70,7 @@ November 13, 2026 at 04:41:03 AM UTC
 - [Circuit Stability Characterizes Language Model Generalization](https://arxiv.org/abs/2505.24731)
 - [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs](https://arxiv.org/abs/2505.22630)
 - [Planning in a recurrent neural network that plays Sokoban](https://arxiv.org/abs/2407.15421)
+- [Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent](https://arxiv.org/abs/2407.12161)
 - [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](https://arxiv.org/abs/2501.18887)
 - [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://arxiv.org/abs/2505.23579)
 - [Enhancing Automated Interpretability with Output-Centric Feature Descriptions](https://arxiv.org/abs/2501.08319)
