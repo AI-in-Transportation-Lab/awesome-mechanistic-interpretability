@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 13, 2026 at 04:41:03 AM UTC
+November 14, 2026 at 04:36:38 AM UTC
 
 
 ## Theorem
 
-## Papers (1367)
+## Papers (1368)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1405,6 +1405,7 @@ November 13, 2026 at 04:41:03 AM UTC
 - [Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs](https://arxiv.org/abs/2611.15735)
 - [A Mechanistic Interpretability Study of an Astronomy Foundation Model](https://arxiv.org/abs/2611.15653)
 - [Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation](https://arxiv.org/abs/2606.11270)
+- [Neural Representations as New Modes of Interactivity](https://arxiv.org/abs/2611.17058)
 
 
 ### Dedicated Publication Threads
