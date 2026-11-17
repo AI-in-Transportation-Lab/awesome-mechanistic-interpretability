@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 16, 2026 at 04:23:02 AM UTC
+November 17, 2026 at 06:07:31 AM UTC
 
 
 ## Theorem
 
-## Papers (1371)
+## Papers (1373)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1409,6 +1409,8 @@ November 16, 2026 at 04:23:02 AM UTC
 - [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](https://arxiv.org/abs/2611.18514)
 - [Functional and parametric identifiability for universal differential equations](https://arxiv.org/abs/2510.14140)
 - [Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer](https://arxiv.org/abs/2611.17548)
+- [Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment](https://arxiv.org/abs/2611.20441)
+- [Pretty Linear Liars: Unregularized Probes Favor Intervention-Unfaithful Features](https://arxiv.org/abs/2611.20371)
 
 
 ### Dedicated Publication Threads
