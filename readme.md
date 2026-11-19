@@ -1428,6 +1428,7 @@ November 19, 2026 at 05:34:18 AM UTC
 - [Zoom In: An Introduction to Circuits (Bilingual Tutorial)](https://github.com/Jonny-English/circuits-zoom-in) - Bilingual (Chinese/English) hands-on Jupyter notebook tutorial reproducing Olah et al. 2020's circuits research, covering feature visualization and mechanistic interpretability in CNNs.
 
 ### Video Tutorials
+- [ICML Tutorial on Mechanistic Interpretability for Language Models](https://icml.cc/virtual/2025/40007)
 
 ## Contributing
 
