@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 18, 2026 at 05:35:59 AM UTC
+November 19, 2026 at 05:34:18 AM UTC
 
 
 ## Theorem
 
-## Papers (1373)
+## Papers (1375)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1411,6 +1411,8 @@ November 18, 2026 at 05:35:59 AM UTC
 - [Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer](https://arxiv.org/abs/2611.17548)
 - [Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment](https://arxiv.org/abs/2611.20441)
 - [Pretty Linear Liars: Unregularized Probes Favor Intervention-Unfaithful Features](https://arxiv.org/abs/2611.20371)
+- [Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models](https://arxiv.org/abs/2611.24453)
+- [Tracking Representations in LLM Reasoning Traces for Iterated Games](https://arxiv.org/abs/2611.23403)
 
 
 ### Dedicated Publication Threads
