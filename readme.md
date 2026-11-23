@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 22, 2026 at 04:40:55 AM UTC
+November 23, 2026 at 05:17:42 AM UTC
 
 
 ## Theorem
 
-## Papers (1378)
+## Papers (1381)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1416,6 +1416,9 @@ November 22, 2026 at 04:40:55 AM UTC
 - [Who Moved My ZZ Boson? Revealing Resonance Features Inside a Neural Network](https://arxiv.org/abs/2611.26291)
 - [Revealing Pathway Interactions in Network Computations with Complete Path Contribution](https://arxiv.org/abs/2611.26101)
 - [Separating Interpretability and Reconstruction in Sparse Autoencoders](https://arxiv.org/abs/2611.25165)
+- [WaXup: Weight Averaging of Experts as Data Augmentation for Robust Introspection](https://arxiv.org/abs/2611.27353)
+- [Weight-space programming and mechanistic interpretability for model editing in particle physics](https://arxiv.org/abs/2611.27079)
+- [Parasite Features: Causal Abstraction Through Spurious Pathways](https://arxiv.org/abs/2611.26711)
 
 
 ### Dedicated Publication Threads
