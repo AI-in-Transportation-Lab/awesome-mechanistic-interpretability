@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-November 23, 2026 at 05:17:42 AM UTC
+November 24, 2026 at 07:59:32 AM UTC
 
 
 ## Theorem
 
-## Papers (1381)
+## Papers (1386)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -1419,6 +1419,11 @@ November 23, 2026 at 05:17:42 AM UTC
 - [WaXup: Weight Averaging of Experts as Data Augmentation for Robust Introspection](https://arxiv.org/abs/2611.27353)
 - [Weight-space programming and mechanistic interpretability for model editing in particle physics](https://arxiv.org/abs/2611.27079)
 - [Parasite Features: Causal Abstraction Through Spurious Pathways](https://arxiv.org/abs/2611.26711)
+- [Beyond Patching: Consistent Circuit Discovery via Gradient Spectral Analysis](https://arxiv.org/abs/2611.30939)
+- [PatchLens: Adapting Mechanistic Interpretability Techniques for Non-Expert Audiences](https://arxiv.org/abs/2611.28487)
+- [A Bayesian Mechanistic Model of Spatiotemporal Dynamics in Invasive Tree Species](https://arxiv.org/abs/2611.28432)
+- [Video-as-Weights: Compiling a Video Once into Parametric and Token Memory](https://arxiv.org/abs/2611.28221)
+- [From Observation to Explanation: Mechanistic Interpretability of LLM-Generated Code for Principled Repair](https://arxiv.org/abs/2611.28153)
 
 
 ### Dedicated Publication Threads
